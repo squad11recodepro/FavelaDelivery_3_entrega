@@ -1,0 +1,68 @@
+﻿@{
+    ViewData["Title"] = "Quem Somos";
+}
+
+<head>
+        <link rel="stylesheet" href="~/css/style.css" />
+</head>
+  <nav class="navbar navbar-expand-lg navbar-dark navbar-custom static-top">
+      <div class="container">
+          <a class="navbar-brand" asp-action="Index" asp-controller="Home"><img src="~/img/logo_nova.png" alt="logo Favela Delivery" height="70"> </a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+          <ul class="navbar-nav ms-auto navcolor">
+            <li class="nav-item">
+              <a class="nav-link" aria-current="page" asp-action="Index" asp-controller="Home">Home</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" asp-action="Quemsomos" asp-controller="Home">Quem somos</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" asp-action="Pedidos" asp-controller="Home">Pedidos</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" asp-action="Cdastro" asp-controller="Home">Cadastro</a>
+            </li>  
+             <li class="nav-item">
+              <a class="nav-link" asp-action="Contato" asp-controller="Home">Contato</a>
+            </li>
+            <div class="icons">
+              <a href="https://www.instagram.com/favela_delivery/" target="_blank"><i class="bi bi-instagram"></i></a>
+              <a href="https://www.facebook.com/" target="_blank"><i class="bi bi-facebook"></i></a>
+            </div>
+          </ul>
+        </div>
+      </div>
+    </nav>
+  <main class="container divquemsomos">
+    <div class="quemsomos">
+      <section class="quemsomos-principal">
+        <div class="texto-quemsomos">
+          <h1 class="titulo-quemsomos">Quem Somos</h1>
+          <span>
+            Somos um grupo de alunos da ONG Recode Pro empenhados e em
+            desenvolvimento, buscando evolução constante e a primeira oportunidade
+            no mercado de trabalho na área de tecnologia, especificamente
+            Full-Stack. Nosso projeto é voltado para a inclusão de mulheres
+            moradoras de comunidades carentes que estão de certa forma excluídas
+            por não conseguirem receber suas encomendas dentro de suas
+            comunidades, visto que muitas empresas não conseguem adentrar nas
+            comunidades e entregar os produtos dos mesmos. O objetivo é facilitar
+            a comercialização de produtos e serviços dentro destas comunidades,
+            focando especificamente mulheres que residem dentro destas
+            comunidades.
+          </span>
+          
+          <a href="https://www.instagram.com/favela_delivery/"  target="_blank"><button class=" btn-quemsomos" type="submit">Saiba Mais</button></a>
+        </div>
+      </section>
+      <section class="quemsomos-secundario">
+        <div class="video-quemsomos">
+          <a href="https://youtu.be/KsF-X2kKFCU" target="_blank"><img src="/img/ft favela.jpg" width="300px"  alt="video" /></a>
+        </div>
+      </section>
+    </div>
+
+  </main>

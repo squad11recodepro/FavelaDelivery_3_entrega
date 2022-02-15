@@ -1,0 +1,817 @@
+C:\Users\Daphne\Desktop\teste2CRUD\FavelaDelivery\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Daphne\Desktop\teste2CRUD\FavelaDelivery\bin\Debug\net5.0\appsettings.json
+C:\Users\Daphne\Desktop\teste2CRUD\FavelaDelivery\bin\Debug\net5.0\FavelaDelivery.exe
+C:\Users\Daphne\Desktop\teste2CRUD\FavelaDelivery\bin\Debug\net5.0\FavelaDelivery.deps.json
+C:\Users\Daphne\Desktop\teste2CRUD\FavelaDelivery\bin\Debug\net5.0\FavelaDelivery.runtimeconfig.json
+C:\Users\Daphne\Desktop\teste2CRUD\FavelaDelivery\bin\Debug\net5.0\FavelaDelivery.runtimeconfig.dev.json
+C:\Users\Daphne\Desktop\teste2CRUD\FavelaDelivery\bin\Debug\net5.0\FavelaDelivery.dll
+C:\Users\Daphne\Desktop\teste2CRUD\FavelaDelivery\bin\Debug\net5.0\ref\FavelaDelivery.dll
+C:\Users\Daphne\Desktop\teste2CRUD\FavelaDelivery\bin\Debug\net5.0\FavelaDelivery.pdb
+C:\Users\Daphne\Desktop\teste2CRUD\FavelaDelivery\bin\Debug\net5.0\FavelaDelivery.Views.dll
+C:\Users\Daphne\Desktop\teste2CRUD\FavelaDelivery\bin\Debug\net5.0\FavelaDelivery.Views.pdb
+C:\Users\Daphne\Desktop\teste2CRUD\FavelaDelivery\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Daphne\Desktop\teste2CRUD\FavelaDelivery\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Daphne\Desktop\teste2CRUD\FavelaDelivery\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Daphne\Desktop\teste2CRUD\FavelaDelivery\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Daphne\Desktop\teste2CRUD\FavelaDelivery\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Daphne\Desktop\teste2CRUD\FavelaDelivery\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Daphne\Desktop\teste2CRUD\FavelaDelivery\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Daphne\Desktop\teste2CRUD\FavelaDelivery\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Daphne\Desktop\teste2CRUD\FavelaDelivery\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Daphne\Desktop\teste2CRUD\FavelaDelivery\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Daphne\Desktop\teste2CRUD\FavelaDelivery\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Daphne\Desktop\teste2CRUD\FavelaDelivery\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Daphne\Desktop\teste2CRUD\FavelaDelivery\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Daphne\Desktop\teste2CRUD\FavelaDelivery\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Daphne\Desktop\teste2CRUD\FavelaDelivery\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Daphne\Desktop\teste2CRUD\FavelaDelivery\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Daphne\Desktop\teste2CRUD\FavelaDelivery\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Daphne\Desktop\teste2CRUD\FavelaDelivery\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Daphne\Desktop\teste2CRUD\FavelaDelivery\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Daphne\Desktop\teste2CRUD\FavelaDelivery\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Daphne\Desktop\teste2CRUD\FavelaDelivery\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Daphne\Desktop\teste2CRUD\FavelaDelivery\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Daphne\Desktop\teste2CRUD\FavelaDelivery\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Daphne\Desktop\teste2CRUD\FavelaDelivery\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Daphne\Desktop\teste2CRUD\FavelaDelivery\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Daphne\Desktop\teste2CRUD\FavelaDelivery\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Daphne\Desktop\teste2CRUD\FavelaDelivery\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Daphne\Desktop\teste2CRUD\FavelaDelivery\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Daphne\Desktop\teste2CRUD\FavelaDelivery\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Daphne\Desktop\teste2CRUD\FavelaDelivery\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Daphne\Desktop\teste2CRUD\FavelaDelivery\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Daphne\Desktop\teste2CRUD\FavelaDelivery\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Daphne\Desktop\teste2CRUD\FavelaDelivery\obj\Debug\net5.0\FavelaDelivery.csproj.AssemblyReference.cache
+C:\Users\Daphne\Desktop\teste2CRUD\FavelaDelivery\obj\Debug\net5.0\FavelaDelivery.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daphne\Desktop\teste2CRUD\FavelaDelivery\obj\Debug\net5.0\FavelaDelivery.AssemblyInfoInputs.cache
+C:\Users\Daphne\Desktop\teste2CRUD\FavelaDelivery\obj\Debug\net5.0\FavelaDelivery.AssemblyInfo.cs
+C:\Users\Daphne\Desktop\teste2CRUD\FavelaDelivery\obj\Debug\net5.0\FavelaDelivery.csproj.CoreCompileInputs.cache
+C:\Users\Daphne\Desktop\teste2CRUD\FavelaDelivery\obj\Debug\net5.0\FavelaDelivery.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Daphne\Desktop\teste2CRUD\FavelaDelivery\obj\Debug\net5.0\FavelaDelivery.RazorAssemblyInfo.cache
+C:\Users\Daphne\Desktop\teste2CRUD\FavelaDelivery\obj\Debug\net5.0\FavelaDelivery.RazorAssemblyInfo.cs
+C:\Users\Daphne\Desktop\teste2CRUD\FavelaDelivery\obj\Debug\net5.0\staticwebassets\FavelaDelivery.StaticWebAssets.Manifest.cache
+C:\Users\Daphne\Desktop\teste2CRUD\FavelaDelivery\obj\Debug\net5.0\staticwebassets\FavelaDelivery.StaticWebAssets.xml
+C:\Users\Daphne\Desktop\teste2CRUD\FavelaDelivery\obj\Debug\net5.0\scopedcss\bundle\FavelaDelivery.styles.css
+C:\Users\Daphne\Desktop\teste2CRUD\FavelaDelivery\obj\Debug\net5.0\FavelaDelivery.TagHelpers.input.cache
+C:\Users\Daphne\Desktop\teste2CRUD\FavelaDelivery\obj\Debug\net5.0\FavelaDelivery.TagHelpers.output.cache
+C:\Users\Daphne\Desktop\teste2CRUD\FavelaDelivery\obj\Debug\net5.0\FavelaDelivery.RazorCoreGenerate.cache
+C:\Users\Daphne\Desktop\teste2CRUD\FavelaDelivery\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Daphne\Desktop\teste2CRUD\FavelaDelivery\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Daphne\Desktop\teste2CRUD\FavelaDelivery\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Daphne\Desktop\teste2CRUD\FavelaDelivery\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Daphne\Desktop\teste2CRUD\FavelaDelivery\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Daphne\Desktop\teste2CRUD\FavelaDelivery\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Daphne\Desktop\teste2CRUD\FavelaDelivery\obj\Debug\net5.0\FavelaDelivery.RazorTargetAssemblyInfo.cache
+C:\Users\Daphne\Desktop\teste2CRUD\FavelaDelivery\obj\Debug\net5.0\FavelaDelivery.RazorTargetAssemblyInfo.cs
+C:\Users\Daphne\Desktop\teste2CRUD\FavelaDelivery\obj\Debug\net5.0\FavelaDelivery.Views.pdb
+C:\Users\Daphne\Desktop\teste2CRUD\FavelaDelivery\obj\Debug\net5.0\FavelaDelivery.csproj.CopyComplete
+C:\Users\Daphne\Desktop\teste2CRUD\FavelaDelivery\obj\Debug\net5.0\FavelaDelivery.dll
+C:\Users\Daphne\Desktop\teste2CRUD\FavelaDelivery\obj\Debug\net5.0\ref\FavelaDelivery.dll
+C:\Users\Daphne\Desktop\teste2CRUD\FavelaDelivery\obj\Debug\net5.0\FavelaDelivery.pdb
+C:\Users\Daphne\Desktop\teste2CRUD\FavelaDelivery\obj\Debug\net5.0\FavelaDelivery.genruntimeconfig.cache
+C:\Users\Daphne\Desktop\teste2CRUD\FavelaDelivery\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Daphne\Desktop\teste2CRUD\FavelaDelivery\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Daphne\Desktop\teste2CRUD\FavelaDelivery\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\Daphne\Desktop\teste2CRUD\FavelaDelivery\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Daphne\Desktop\teste2CRUD\FavelaDelivery\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Daphne\Desktop\teste2CRUD\FavelaDelivery\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Daphne\Desktop\teste2CRUD\FavelaDelivery\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Daphne\Desktop\teste2CRUD\FavelaDelivery\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Daphne\Desktop\teste2CRUD\FavelaDelivery\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Daphne\Desktop\teste2CRUD\FavelaDelivery\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Daphne\Desktop\teste2CRUD\FavelaDelivery\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Daphne\Desktop\teste2CRUD\FavelaDelivery\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Daphne\Desktop\teste2CRUD\FavelaDelivery\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Daphne\Desktop\teste2CRUD\FavelaDelivery\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Daphne\Desktop\teste2CRUD\FavelaDelivery\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Daphne\Desktop\teste2CRUD\FavelaDelivery\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\Daphne\Desktop\teste2CRUD\FavelaDelivery\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\Daphne\Desktop\teste2CRUD\FavelaDelivery\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\Daphne\Desktop\teste2CRUD\FavelaDelivery\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\Daphne\Desktop\teste2CRUD\FavelaDelivery\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\Daphne\Desktop\teste2CRUD\FavelaDelivery\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Daphne\Desktop\teste2CRUD\FavelaDelivery\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Daphne\Desktop\teste2CRUD\FavelaDelivery\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Daphne\Desktop\teste2CRUD\FavelaDelivery\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Daphne\Desktop\teste2CRUD\FavelaDelivery\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Daphne\Desktop\teste2CRUD\FavelaDelivery\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Daphne\Desktop\teste2CRUD\FavelaDelivery\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Daphne\Desktop\teste2CRUD\FavelaDelivery\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Daphne\Desktop\teste2CRUD\FavelaDelivery\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Daphne\Desktop\teste2CRUD\FavelaDelivery\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Daphne\Desktop\teste2CRUD\FavelaDelivery\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Daphne\Desktop\teste2CRUD\FavelaDelivery\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Daphne\Desktop\teste2CRUD\FavelaDelivery\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Daphne\Desktop\teste2CRUD\FavelaDelivery\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Daphne\Desktop\teste2CRUD\FavelaDelivery\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Daphne\Desktop\teste2CRUD\FavelaDelivery\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Daphne\Desktop\teste2CRUD\FavelaDelivery\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Daphne\Desktop\teste2CRUD\FavelaDelivery\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Daphne\Desktop\teste2CRUD\FavelaDelivery\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Daphne\Desktop\teste2CRUD\FavelaDelivery\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Daphne\Desktop\teste2CRUD\FavelaDelivery\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Daphne\Desktop\teste2CRUD\FavelaDelivery\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Daphne\Desktop\teste2CRUD\FavelaDelivery\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Daphne\Desktop\teste2CRUD\FavelaDelivery\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Daphne\Desktop\teste2CRUD\FavelaDelivery\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Daphne\Desktop\teste2CRUD\FavelaDelivery\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Daphne\Desktop\teste2CRUD\FavelaDelivery\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Daphne\Desktop\teste2CRUD\FavelaDelivery\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Daphne\Desktop\teste2CRUD\FavelaDelivery\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Daphne\Desktop\teste2CRUD\FavelaDelivery\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Daphne\Desktop\teste2CRUD\FavelaDelivery\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Daphne\Desktop\teste2CRUD\FavelaDelivery\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Daphne\Desktop\teste2CRUD\FavelaDelivery\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Daphne\Desktop\teste2CRUD\FavelaDelivery\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Daphne\Desktop\teste2CRUD\FavelaDelivery\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Daphne\Desktop\teste2CRUD\FavelaDelivery\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Daphne\Desktop\teste2CRUD\FavelaDelivery\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Daphne\Desktop\teste2CRUD\FavelaDelivery\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Daphne\Desktop\teste2CRUD\FavelaDelivery\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Daphne\Desktop\teste2CRUD\FavelaDelivery\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Daphne\Desktop\teste2CRUD\FavelaDelivery\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Daphne\Desktop\teste2CRUD\FavelaDelivery\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Daphne\Desktop\teste2CRUD\FavelaDelivery\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Daphne\Desktop\teste2CRUD\FavelaDelivery\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Daphne\Desktop\teste2CRUD\FavelaDelivery\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Daphne\Desktop\teste2CRUD\FavelaDelivery\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Daphne\Desktop\teste2CRUD\FavelaDelivery\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Daphne\Desktop\teste2CRUD\FavelaDelivery\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Daphne\Desktop\teste2CRUD\FavelaDelivery\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Daphne\Desktop\teste2CRUD\FavelaDelivery\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Daphne\Desktop\teste2CRUD\FavelaDelivery\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Daphne\Desktop\teste2CRUD\FavelaDelivery\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Daphne\Desktop\teste2CRUD\FavelaDelivery\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Daphne\Desktop\teste2CRUD\FavelaDelivery\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Daphne\Desktop\teste2CRUD\FavelaDelivery\obj\Debug\net5.0\Razor\Views\CadastroEmpreendedors\Create.cshtml.g.cs
+C:\Users\Daphne\Desktop\teste2CRUD\FavelaDelivery\obj\Debug\net5.0\Razor\Views\CadastroEmpreendedors\Delete.cshtml.g.cs
+C:\Users\Daphne\Desktop\teste2CRUD\FavelaDelivery\obj\Debug\net5.0\Razor\Views\CadastroEmpreendedors\Details.cshtml.g.cs
+C:\Users\Daphne\Desktop\teste2CRUD\FavelaDelivery\obj\Debug\net5.0\Razor\Views\CadastroEmpreendedors\Edit.cshtml.g.cs
+C:\Users\Daphne\Desktop\teste2CRUD\FavelaDelivery\obj\Debug\net5.0\Razor\Views\CadastroEmpreendedors\Index.cshtml.g.cs
+C:\Users\Daphne\Desktop\teste2CRUD\FavelaDelivery\obj\Debug\net5.0\Razor\Views\CadastroClientes\Create.cshtml.g.cs
+C:\Users\Daphne\Desktop\teste2CRUD\FavelaDelivery\obj\Debug\net5.0\Razor\Views\CadastroClientes\Delete.cshtml.g.cs
+C:\Users\Daphne\Desktop\teste2CRUD\FavelaDelivery\obj\Debug\net5.0\Razor\Views\CadastroClientes\Details.cshtml.g.cs
+C:\Users\Daphne\Desktop\teste2CRUD\FavelaDelivery\obj\Debug\net5.0\Razor\Views\CadastroClientes\Edit.cshtml.g.cs
+C:\Users\Daphne\Desktop\teste2CRUD\FavelaDelivery\obj\Debug\net5.0\Razor\Views\CadastroClientes\Index.cshtml.g.cs
+C:\Users\Daphne\Desktop\teste2CRUD\FavelaDelivery\obj\Debug\net5.0\Razor\Views\CadastroEntregadors\Create.cshtml.g.cs
+C:\Users\Daphne\Desktop\teste2CRUD\FavelaDelivery\obj\Debug\net5.0\Razor\Views\CadastroEntregadors\Delete.cshtml.g.cs
+C:\Users\Daphne\Desktop\teste2CRUD\FavelaDelivery\obj\Debug\net5.0\Razor\Views\CadastroEntregadors\Details.cshtml.g.cs
+C:\Users\Daphne\Desktop\teste2CRUD\FavelaDelivery\obj\Debug\net5.0\Razor\Views\CadastroEntregadors\Edit.cshtml.g.cs
+C:\Users\Daphne\Desktop\teste2CRUD\FavelaDelivery\obj\Debug\net5.0\Razor\Views\CadastroEntregadors\Index.cshtml.g.cs
+D:\RECODEPRO\Squad 11\PROJETO\atualização\FavelaDelivery\bin\Debug\net5.0\appsettings.Development.json
+D:\RECODEPRO\Squad 11\PROJETO\atualização\FavelaDelivery\bin\Debug\net5.0\appsettings.json
+D:\RECODEPRO\Squad 11\PROJETO\atualização\FavelaDelivery\bin\Debug\net5.0\FavelaDelivery.StaticWebAssets.xml
+D:\RECODEPRO\Squad 11\PROJETO\atualização\FavelaDelivery\bin\Debug\net5.0\FavelaDelivery.exe
+D:\RECODEPRO\Squad 11\PROJETO\atualização\FavelaDelivery\bin\Debug\net5.0\FavelaDelivery.deps.json
+D:\RECODEPRO\Squad 11\PROJETO\atualização\FavelaDelivery\bin\Debug\net5.0\FavelaDelivery.runtimeconfig.json
+D:\RECODEPRO\Squad 11\PROJETO\atualização\FavelaDelivery\bin\Debug\net5.0\FavelaDelivery.runtimeconfig.dev.json
+D:\RECODEPRO\Squad 11\PROJETO\atualização\FavelaDelivery\bin\Debug\net5.0\FavelaDelivery.dll
+D:\RECODEPRO\Squad 11\PROJETO\atualização\FavelaDelivery\bin\Debug\net5.0\ref\FavelaDelivery.dll
+D:\RECODEPRO\Squad 11\PROJETO\atualização\FavelaDelivery\bin\Debug\net5.0\FavelaDelivery.pdb
+D:\RECODEPRO\Squad 11\PROJETO\atualização\FavelaDelivery\bin\Debug\net5.0\FavelaDelivery.Views.dll
+D:\RECODEPRO\Squad 11\PROJETO\atualização\FavelaDelivery\bin\Debug\net5.0\FavelaDelivery.Views.pdb
+D:\RECODEPRO\Squad 11\PROJETO\atualização\FavelaDelivery\bin\Debug\net5.0\Humanizer.dll
+D:\RECODEPRO\Squad 11\PROJETO\atualização\FavelaDelivery\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\RECODEPRO\Squad 11\PROJETO\atualização\FavelaDelivery\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\RECODEPRO\Squad 11\PROJETO\atualização\FavelaDelivery\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\RECODEPRO\Squad 11\PROJETO\atualização\FavelaDelivery\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\RECODEPRO\Squad 11\PROJETO\atualização\FavelaDelivery\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\RECODEPRO\Squad 11\PROJETO\atualização\FavelaDelivery\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\RECODEPRO\Squad 11\PROJETO\atualização\FavelaDelivery\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\RECODEPRO\Squad 11\PROJETO\atualização\FavelaDelivery\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\RECODEPRO\Squad 11\PROJETO\atualização\FavelaDelivery\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\RECODEPRO\Squad 11\PROJETO\atualização\FavelaDelivery\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\RECODEPRO\Squad 11\PROJETO\atualização\FavelaDelivery\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\RECODEPRO\Squad 11\PROJETO\atualização\FavelaDelivery\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\RECODEPRO\Squad 11\PROJETO\atualização\FavelaDelivery\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\RECODEPRO\Squad 11\PROJETO\atualização\FavelaDelivery\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\RECODEPRO\Squad 11\PROJETO\atualização\FavelaDelivery\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\RECODEPRO\Squad 11\PROJETO\atualização\FavelaDelivery\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\RECODEPRO\Squad 11\PROJETO\atualização\FavelaDelivery\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\RECODEPRO\Squad 11\PROJETO\atualização\FavelaDelivery\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\RECODEPRO\Squad 11\PROJETO\atualização\FavelaDelivery\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\RECODEPRO\Squad 11\PROJETO\atualização\FavelaDelivery\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\RECODEPRO\Squad 11\PROJETO\atualização\FavelaDelivery\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\RECODEPRO\Squad 11\PROJETO\atualização\FavelaDelivery\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\RECODEPRO\Squad 11\PROJETO\atualização\FavelaDelivery\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\RECODEPRO\Squad 11\PROJETO\atualização\FavelaDelivery\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\RECODEPRO\Squad 11\PROJETO\atualização\FavelaDelivery\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\RECODEPRO\Squad 11\PROJETO\atualização\FavelaDelivery\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\RECODEPRO\Squad 11\PROJETO\atualização\FavelaDelivery\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\RECODEPRO\Squad 11\PROJETO\atualização\FavelaDelivery\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\RECODEPRO\Squad 11\PROJETO\atualização\FavelaDelivery\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\RECODEPRO\Squad 11\PROJETO\atualização\FavelaDelivery\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+D:\RECODEPRO\Squad 11\PROJETO\atualização\FavelaDelivery\bin\Debug\net5.0\System.Composition.Convention.dll
+D:\RECODEPRO\Squad 11\PROJETO\atualização\FavelaDelivery\bin\Debug\net5.0\System.Composition.Hosting.dll
+D:\RECODEPRO\Squad 11\PROJETO\atualização\FavelaDelivery\bin\Debug\net5.0\System.Composition.Runtime.dll
+D:\RECODEPRO\Squad 11\PROJETO\atualização\FavelaDelivery\bin\Debug\net5.0\System.Composition.TypedParts.dll
+D:\RECODEPRO\Squad 11\PROJETO\atualização\FavelaDelivery\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\RECODEPRO\Squad 11\PROJETO\atualização\FavelaDelivery\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\RECODEPRO\Squad 11\PROJETO\atualização\FavelaDelivery\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\RECODEPRO\Squad 11\PROJETO\atualização\FavelaDelivery\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\RECODEPRO\Squad 11\PROJETO\atualização\FavelaDelivery\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\RECODEPRO\Squad 11\PROJETO\atualização\FavelaDelivery\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\RECODEPRO\Squad 11\PROJETO\atualização\FavelaDelivery\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\RECODEPRO\Squad 11\PROJETO\atualização\FavelaDelivery\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\RECODEPRO\Squad 11\PROJETO\atualização\FavelaDelivery\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\RECODEPRO\Squad 11\PROJETO\atualização\FavelaDelivery\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\RECODEPRO\Squad 11\PROJETO\atualização\FavelaDelivery\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\RECODEPRO\Squad 11\PROJETO\atualização\FavelaDelivery\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\RECODEPRO\Squad 11\PROJETO\atualização\FavelaDelivery\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\RECODEPRO\Squad 11\PROJETO\atualização\FavelaDelivery\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\RECODEPRO\Squad 11\PROJETO\atualização\FavelaDelivery\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\RECODEPRO\Squad 11\PROJETO\atualização\FavelaDelivery\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\RECODEPRO\Squad 11\PROJETO\atualização\FavelaDelivery\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\RECODEPRO\Squad 11\PROJETO\atualização\FavelaDelivery\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\RECODEPRO\Squad 11\PROJETO\atualização\FavelaDelivery\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\RECODEPRO\Squad 11\PROJETO\atualização\FavelaDelivery\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\RECODEPRO\Squad 11\PROJETO\atualização\FavelaDelivery\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\RECODEPRO\Squad 11\PROJETO\atualização\FavelaDelivery\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\RECODEPRO\Squad 11\PROJETO\atualização\FavelaDelivery\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\RECODEPRO\Squad 11\PROJETO\atualização\FavelaDelivery\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\RECODEPRO\Squad 11\PROJETO\atualização\FavelaDelivery\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\RECODEPRO\Squad 11\PROJETO\atualização\FavelaDelivery\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\RECODEPRO\Squad 11\PROJETO\atualização\FavelaDelivery\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\RECODEPRO\Squad 11\PROJETO\atualização\FavelaDelivery\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\RECODEPRO\Squad 11\PROJETO\atualização\FavelaDelivery\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\RECODEPRO\Squad 11\PROJETO\atualização\FavelaDelivery\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\RECODEPRO\Squad 11\PROJETO\atualização\FavelaDelivery\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\RECODEPRO\Squad 11\PROJETO\atualização\FavelaDelivery\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\RECODEPRO\Squad 11\PROJETO\atualização\FavelaDelivery\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\RECODEPRO\Squad 11\PROJETO\atualização\FavelaDelivery\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\RECODEPRO\Squad 11\PROJETO\atualização\FavelaDelivery\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\RECODEPRO\Squad 11\PROJETO\atualização\FavelaDelivery\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\RECODEPRO\Squad 11\PROJETO\atualização\FavelaDelivery\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\RECODEPRO\Squad 11\PROJETO\atualização\FavelaDelivery\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\RECODEPRO\Squad 11\PROJETO\atualização\FavelaDelivery\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\RECODEPRO\Squad 11\PROJETO\atualização\FavelaDelivery\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\RECODEPRO\Squad 11\PROJETO\atualização\FavelaDelivery\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\RECODEPRO\Squad 11\PROJETO\atualização\FavelaDelivery\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\RECODEPRO\Squad 11\PROJETO\atualização\FavelaDelivery\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\RECODEPRO\Squad 11\PROJETO\atualização\FavelaDelivery\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\RECODEPRO\Squad 11\PROJETO\atualização\FavelaDelivery\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\RECODEPRO\Squad 11\PROJETO\atualização\FavelaDelivery\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\RECODEPRO\Squad 11\PROJETO\atualização\FavelaDelivery\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\RECODEPRO\Squad 11\PROJETO\atualização\FavelaDelivery\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\RECODEPRO\Squad 11\PROJETO\atualização\FavelaDelivery\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\RECODEPRO\Squad 11\PROJETO\atualização\FavelaDelivery\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\RECODEPRO\Squad 11\PROJETO\atualização\FavelaDelivery\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\RECODEPRO\Squad 11\PROJETO\atualização\FavelaDelivery\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\RECODEPRO\Squad 11\PROJETO\atualização\FavelaDelivery\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\RECODEPRO\Squad 11\PROJETO\atualização\FavelaDelivery\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\RECODEPRO\Squad 11\PROJETO\atualização\FavelaDelivery\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\RECODEPRO\Squad 11\PROJETO\atualização\FavelaDelivery\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\RECODEPRO\Squad 11\PROJETO\atualização\FavelaDelivery\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\RECODEPRO\Squad 11\PROJETO\atualização\FavelaDelivery\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\RECODEPRO\Squad 11\PROJETO\atualização\FavelaDelivery\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\RECODEPRO\Squad 11\PROJETO\atualização\FavelaDelivery\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\RECODEPRO\Squad 11\PROJETO\atualização\FavelaDelivery\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\RECODEPRO\Squad 11\PROJETO\atualização\FavelaDelivery\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\RECODEPRO\Squad 11\PROJETO\atualização\FavelaDelivery\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\RECODEPRO\Squad 11\PROJETO\atualização\FavelaDelivery\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\RECODEPRO\Squad 11\PROJETO\atualização\FavelaDelivery\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\RECODEPRO\Squad 11\PROJETO\atualização\FavelaDelivery\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\RECODEPRO\Squad 11\PROJETO\atualização\FavelaDelivery\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\RECODEPRO\Squad 11\PROJETO\atualização\FavelaDelivery\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\RECODEPRO\Squad 11\PROJETO\atualização\FavelaDelivery\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\RECODEPRO\Squad 11\PROJETO\atualização\FavelaDelivery\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\RECODEPRO\Squad 11\PROJETO\atualização\FavelaDelivery\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\RECODEPRO\Squad 11\PROJETO\atualização\FavelaDelivery\obj\Debug\net5.0\FavelaDelivery.csproj.AssemblyReference.cache
+D:\RECODEPRO\Squad 11\PROJETO\atualização\FavelaDelivery\obj\Debug\net5.0\FavelaDelivery.GeneratedMSBuildEditorConfig.editorconfig
+D:\RECODEPRO\Squad 11\PROJETO\atualização\FavelaDelivery\obj\Debug\net5.0\FavelaDelivery.AssemblyInfoInputs.cache
+D:\RECODEPRO\Squad 11\PROJETO\atualização\FavelaDelivery\obj\Debug\net5.0\FavelaDelivery.AssemblyInfo.cs
+D:\RECODEPRO\Squad 11\PROJETO\atualização\FavelaDelivery\obj\Debug\net5.0\FavelaDelivery.csproj.CoreCompileInputs.cache
+D:\RECODEPRO\Squad 11\PROJETO\atualização\FavelaDelivery\obj\Debug\net5.0\FavelaDelivery.MvcApplicationPartsAssemblyInfo.cache
+D:\RECODEPRO\Squad 11\PROJETO\atualização\FavelaDelivery\obj\Debug\net5.0\FavelaDelivery.RazorAssemblyInfo.cache
+D:\RECODEPRO\Squad 11\PROJETO\atualização\FavelaDelivery\obj\Debug\net5.0\FavelaDelivery.RazorAssemblyInfo.cs
+D:\RECODEPRO\Squad 11\PROJETO\atualização\FavelaDelivery\obj\Debug\net5.0\scopedcss\bundle\FavelaDelivery.styles.css
+D:\RECODEPRO\Squad 11\PROJETO\atualização\FavelaDelivery\obj\Debug\net5.0\staticwebassets\FavelaDelivery.StaticWebAssets.Manifest.cache
+D:\RECODEPRO\Squad 11\PROJETO\atualização\FavelaDelivery\obj\Debug\net5.0\FavelaDelivery.TagHelpers.input.cache
+D:\RECODEPRO\Squad 11\PROJETO\atualização\FavelaDelivery\obj\Debug\net5.0\FavelaDelivery.TagHelpers.output.cache
+D:\RECODEPRO\Squad 11\PROJETO\atualização\FavelaDelivery\obj\Debug\net5.0\FavelaDelivery.RazorCoreGenerate.cache
+D:\RECODEPRO\Squad 11\PROJETO\atualização\FavelaDelivery\obj\Debug\net5.0\Razor\Views\CadastroClientes\Create.cshtml.g.cs
+D:\RECODEPRO\Squad 11\PROJETO\atualização\FavelaDelivery\obj\Debug\net5.0\Razor\Views\CadastroClientes\Delete.cshtml.g.cs
+D:\RECODEPRO\Squad 11\PROJETO\atualização\FavelaDelivery\obj\Debug\net5.0\Razor\Views\CadastroClientes\Details.cshtml.g.cs
+D:\RECODEPRO\Squad 11\PROJETO\atualização\FavelaDelivery\obj\Debug\net5.0\Razor\Views\CadastroClientes\Edit.cshtml.g.cs
+D:\RECODEPRO\Squad 11\PROJETO\atualização\FavelaDelivery\obj\Debug\net5.0\Razor\Views\CadastroClientes\Index.cshtml.g.cs
+D:\RECODEPRO\Squad 11\PROJETO\atualização\FavelaDelivery\obj\Debug\net5.0\Razor\Views\CadastroEmpreendedors\Create.cshtml.g.cs
+D:\RECODEPRO\Squad 11\PROJETO\atualização\FavelaDelivery\obj\Debug\net5.0\Razor\Views\CadastroEmpreendedors\Delete.cshtml.g.cs
+D:\RECODEPRO\Squad 11\PROJETO\atualização\FavelaDelivery\obj\Debug\net5.0\Razor\Views\CadastroEmpreendedors\Details.cshtml.g.cs
+D:\RECODEPRO\Squad 11\PROJETO\atualização\FavelaDelivery\obj\Debug\net5.0\Razor\Views\CadastroEmpreendedors\Edit.cshtml.g.cs
+D:\RECODEPRO\Squad 11\PROJETO\atualização\FavelaDelivery\obj\Debug\net5.0\Razor\Views\CadastroEmpreendedors\Index.cshtml.g.cs
+D:\RECODEPRO\Squad 11\PROJETO\atualização\FavelaDelivery\obj\Debug\net5.0\Razor\Views\CadastroEntregadors\Create.cshtml.g.cs
+D:\RECODEPRO\Squad 11\PROJETO\atualização\FavelaDelivery\obj\Debug\net5.0\Razor\Views\CadastroEntregadors\Delete.cshtml.g.cs
+D:\RECODEPRO\Squad 11\PROJETO\atualização\FavelaDelivery\obj\Debug\net5.0\Razor\Views\CadastroEntregadors\Details.cshtml.g.cs
+D:\RECODEPRO\Squad 11\PROJETO\atualização\FavelaDelivery\obj\Debug\net5.0\Razor\Views\CadastroEntregadors\Edit.cshtml.g.cs
+D:\RECODEPRO\Squad 11\PROJETO\atualização\FavelaDelivery\obj\Debug\net5.0\Razor\Views\CadastroEntregadors\Index.cshtml.g.cs
+D:\RECODEPRO\Squad 11\PROJETO\atualização\FavelaDelivery\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\RECODEPRO\Squad 11\PROJETO\atualização\FavelaDelivery\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\RECODEPRO\Squad 11\PROJETO\atualização\FavelaDelivery\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\RECODEPRO\Squad 11\PROJETO\atualização\FavelaDelivery\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\RECODEPRO\Squad 11\PROJETO\atualização\FavelaDelivery\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\RECODEPRO\Squad 11\PROJETO\atualização\FavelaDelivery\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\RECODEPRO\Squad 11\PROJETO\atualização\FavelaDelivery\obj\Debug\net5.0\FavelaDelivery.RazorTargetAssemblyInfo.cache
+D:\RECODEPRO\Squad 11\PROJETO\atualização\FavelaDelivery\obj\Debug\net5.0\FavelaDelivery.RazorTargetAssemblyInfo.cs
+D:\RECODEPRO\Squad 11\PROJETO\atualização\FavelaDelivery\obj\Debug\net5.0\FavelaDelivery.Views.pdb
+D:\RECODEPRO\Squad 11\PROJETO\atualização\FavelaDelivery\obj\Debug\net5.0\FavelaDelivery.csproj.CopyComplete
+D:\RECODEPRO\Squad 11\PROJETO\atualização\FavelaDelivery\obj\Debug\net5.0\FavelaDelivery.dll
+D:\RECODEPRO\Squad 11\PROJETO\atualização\FavelaDelivery\obj\Debug\net5.0\ref\FavelaDelivery.dll
+D:\RECODEPRO\Squad 11\PROJETO\atualização\FavelaDelivery\obj\Debug\net5.0\FavelaDelivery.pdb
+D:\RECODEPRO\Squad 11\PROJETO\atualização\FavelaDelivery\obj\Debug\net5.0\FavelaDelivery.genruntimeconfig.cache
+D:\RECODEPRO\Squad 11\PROJETO\atualização\FavelaDelivery\obj\Debug\net5.0\Razor\Views\Home\Pedidos.cshtml.g.cs
+D:\RECODEPRO\Squad 11\PROJETO\atualização\FavelaDelivery\obj\Debug\net5.0\Razor\Views\Home\QuemSomos.cshtml.g.cs
+D:\RECODEPRO\Squad 11\PROJETO\atualização\FavelaDelivery\obj\Debug\net5.0\Razor\Views\Home\Cdastro.cshtml.g.cs
+C:\Users\Caio Nina e Luffy\Desktop\01 - PROGRAMAÇÃO\01 - Recode Pro\Projeto - Favela Delivery 2.0\2ª Entrega\FavelaDelivery\obj\Debug\net5.0\FavelaDelivery.dll
+C:\Users\Caio Nina e Luffy\Desktop\01 - PROGRAMAÇÃO\01 - Recode Pro\Projeto - Favela Delivery 2.0\2ª Entrega\FavelaDelivery\obj\Debug\net5.0\ref\FavelaDelivery.dll
+C:\Users\Caio Nina e Luffy\Desktop\01 - PROGRAMAÇÃO\01 - Recode Pro\Projeto - Favela Delivery 2.0\2ª Entrega\FavelaDelivery\obj\Debug\net5.0\FavelaDelivery.pdb
+C:\Users\Remakker\Documents\Favela Delivery entrega de janeiro\FavelaDelivery-esse aqui\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Remakker\Documents\Favela Delivery entrega de janeiro\FavelaDelivery-esse aqui\bin\Debug\net5.0\appsettings.json
+C:\Users\Remakker\Documents\Favela Delivery entrega de janeiro\FavelaDelivery-esse aqui\bin\Debug\net5.0\FavelaDelivery.exe
+C:\Users\Remakker\Documents\Favela Delivery entrega de janeiro\FavelaDelivery-esse aqui\bin\Debug\net5.0\FavelaDelivery.deps.json
+C:\Users\Remakker\Documents\Favela Delivery entrega de janeiro\FavelaDelivery-esse aqui\bin\Debug\net5.0\FavelaDelivery.runtimeconfig.json
+C:\Users\Remakker\Documents\Favela Delivery entrega de janeiro\FavelaDelivery-esse aqui\bin\Debug\net5.0\FavelaDelivery.runtimeconfig.dev.json
+C:\Users\Remakker\Documents\Favela Delivery entrega de janeiro\FavelaDelivery-esse aqui\bin\Debug\net5.0\FavelaDelivery.dll
+C:\Users\Remakker\Documents\Favela Delivery entrega de janeiro\FavelaDelivery-esse aqui\bin\Debug\net5.0\ref\FavelaDelivery.dll
+C:\Users\Remakker\Documents\Favela Delivery entrega de janeiro\FavelaDelivery-esse aqui\bin\Debug\net5.0\FavelaDelivery.pdb
+C:\Users\Remakker\Documents\Favela Delivery entrega de janeiro\FavelaDelivery-esse aqui\bin\Debug\net5.0\FavelaDelivery.Views.dll
+C:\Users\Remakker\Documents\Favela Delivery entrega de janeiro\FavelaDelivery-esse aqui\bin\Debug\net5.0\FavelaDelivery.Views.pdb
+C:\Users\Remakker\Documents\Favela Delivery entrega de janeiro\FavelaDelivery-esse aqui\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Remakker\Documents\Favela Delivery entrega de janeiro\FavelaDelivery-esse aqui\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Remakker\Documents\Favela Delivery entrega de janeiro\FavelaDelivery-esse aqui\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Remakker\Documents\Favela Delivery entrega de janeiro\FavelaDelivery-esse aqui\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\Remakker\Documents\Favela Delivery entrega de janeiro\FavelaDelivery-esse aqui\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Remakker\Documents\Favela Delivery entrega de janeiro\FavelaDelivery-esse aqui\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Remakker\Documents\Favela Delivery entrega de janeiro\FavelaDelivery-esse aqui\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Remakker\Documents\Favela Delivery entrega de janeiro\FavelaDelivery-esse aqui\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Remakker\Documents\Favela Delivery entrega de janeiro\FavelaDelivery-esse aqui\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Remakker\Documents\Favela Delivery entrega de janeiro\FavelaDelivery-esse aqui\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Remakker\Documents\Favela Delivery entrega de janeiro\FavelaDelivery-esse aqui\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Remakker\Documents\Favela Delivery entrega de janeiro\FavelaDelivery-esse aqui\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Remakker\Documents\Favela Delivery entrega de janeiro\FavelaDelivery-esse aqui\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Remakker\Documents\Favela Delivery entrega de janeiro\FavelaDelivery-esse aqui\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Remakker\Documents\Favela Delivery entrega de janeiro\FavelaDelivery-esse aqui\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Remakker\Documents\Favela Delivery entrega de janeiro\FavelaDelivery-esse aqui\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Remakker\Documents\Favela Delivery entrega de janeiro\FavelaDelivery-esse aqui\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Remakker\Documents\Favela Delivery entrega de janeiro\FavelaDelivery-esse aqui\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Remakker\Documents\Favela Delivery entrega de janeiro\FavelaDelivery-esse aqui\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Remakker\Documents\Favela Delivery entrega de janeiro\FavelaDelivery-esse aqui\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Remakker\Documents\Favela Delivery entrega de janeiro\FavelaDelivery-esse aqui\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Remakker\Documents\Favela Delivery entrega de janeiro\FavelaDelivery-esse aqui\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Remakker\Documents\Favela Delivery entrega de janeiro\FavelaDelivery-esse aqui\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Remakker\Documents\Favela Delivery entrega de janeiro\FavelaDelivery-esse aqui\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Remakker\Documents\Favela Delivery entrega de janeiro\FavelaDelivery-esse aqui\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Remakker\Documents\Favela Delivery entrega de janeiro\FavelaDelivery-esse aqui\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Remakker\Documents\Favela Delivery entrega de janeiro\FavelaDelivery-esse aqui\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Remakker\Documents\Favela Delivery entrega de janeiro\FavelaDelivery-esse aqui\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Remakker\Documents\Favela Delivery entrega de janeiro\FavelaDelivery-esse aqui\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Remakker\Documents\Favela Delivery entrega de janeiro\FavelaDelivery-esse aqui\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Remakker\Documents\Favela Delivery entrega de janeiro\FavelaDelivery-esse aqui\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\Remakker\Documents\Favela Delivery entrega de janeiro\FavelaDelivery-esse aqui\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\Remakker\Documents\Favela Delivery entrega de janeiro\FavelaDelivery-esse aqui\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\Remakker\Documents\Favela Delivery entrega de janeiro\FavelaDelivery-esse aqui\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\Remakker\Documents\Favela Delivery entrega de janeiro\FavelaDelivery-esse aqui\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\Remakker\Documents\Favela Delivery entrega de janeiro\FavelaDelivery-esse aqui\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Remakker\Documents\Favela Delivery entrega de janeiro\FavelaDelivery-esse aqui\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Remakker\Documents\Favela Delivery entrega de janeiro\FavelaDelivery-esse aqui\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Remakker\Documents\Favela Delivery entrega de janeiro\FavelaDelivery-esse aqui\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Remakker\Documents\Favela Delivery entrega de janeiro\FavelaDelivery-esse aqui\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Remakker\Documents\Favela Delivery entrega de janeiro\FavelaDelivery-esse aqui\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Remakker\Documents\Favela Delivery entrega de janeiro\FavelaDelivery-esse aqui\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Remakker\Documents\Favela Delivery entrega de janeiro\FavelaDelivery-esse aqui\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Remakker\Documents\Favela Delivery entrega de janeiro\FavelaDelivery-esse aqui\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Remakker\Documents\Favela Delivery entrega de janeiro\FavelaDelivery-esse aqui\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Remakker\Documents\Favela Delivery entrega de janeiro\FavelaDelivery-esse aqui\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Remakker\Documents\Favela Delivery entrega de janeiro\FavelaDelivery-esse aqui\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Remakker\Documents\Favela Delivery entrega de janeiro\FavelaDelivery-esse aqui\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Remakker\Documents\Favela Delivery entrega de janeiro\FavelaDelivery-esse aqui\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Remakker\Documents\Favela Delivery entrega de janeiro\FavelaDelivery-esse aqui\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Remakker\Documents\Favela Delivery entrega de janeiro\FavelaDelivery-esse aqui\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Remakker\Documents\Favela Delivery entrega de janeiro\FavelaDelivery-esse aqui\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Remakker\Documents\Favela Delivery entrega de janeiro\FavelaDelivery-esse aqui\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Remakker\Documents\Favela Delivery entrega de janeiro\FavelaDelivery-esse aqui\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Remakker\Documents\Favela Delivery entrega de janeiro\FavelaDelivery-esse aqui\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Remakker\Documents\Favela Delivery entrega de janeiro\FavelaDelivery-esse aqui\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Remakker\Documents\Favela Delivery entrega de janeiro\FavelaDelivery-esse aqui\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Remakker\Documents\Favela Delivery entrega de janeiro\FavelaDelivery-esse aqui\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Remakker\Documents\Favela Delivery entrega de janeiro\FavelaDelivery-esse aqui\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Remakker\Documents\Favela Delivery entrega de janeiro\FavelaDelivery-esse aqui\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Remakker\Documents\Favela Delivery entrega de janeiro\FavelaDelivery-esse aqui\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Remakker\Documents\Favela Delivery entrega de janeiro\FavelaDelivery-esse aqui\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Remakker\Documents\Favela Delivery entrega de janeiro\FavelaDelivery-esse aqui\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Remakker\Documents\Favela Delivery entrega de janeiro\FavelaDelivery-esse aqui\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Remakker\Documents\Favela Delivery entrega de janeiro\FavelaDelivery-esse aqui\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Remakker\Documents\Favela Delivery entrega de janeiro\FavelaDelivery-esse aqui\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Remakker\Documents\Favela Delivery entrega de janeiro\FavelaDelivery-esse aqui\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Remakker\Documents\Favela Delivery entrega de janeiro\FavelaDelivery-esse aqui\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Remakker\Documents\Favela Delivery entrega de janeiro\FavelaDelivery-esse aqui\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Remakker\Documents\Favela Delivery entrega de janeiro\FavelaDelivery-esse aqui\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Remakker\Documents\Favela Delivery entrega de janeiro\FavelaDelivery-esse aqui\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Remakker\Documents\Favela Delivery entrega de janeiro\FavelaDelivery-esse aqui\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Remakker\Documents\Favela Delivery entrega de janeiro\FavelaDelivery-esse aqui\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Remakker\Documents\Favela Delivery entrega de janeiro\FavelaDelivery-esse aqui\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Remakker\Documents\Favela Delivery entrega de janeiro\FavelaDelivery-esse aqui\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Remakker\Documents\Favela Delivery entrega de janeiro\FavelaDelivery-esse aqui\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Remakker\Documents\Favela Delivery entrega de janeiro\FavelaDelivery-esse aqui\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Remakker\Documents\Favela Delivery entrega de janeiro\FavelaDelivery-esse aqui\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Remakker\Documents\Favela Delivery entrega de janeiro\FavelaDelivery-esse aqui\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Remakker\Documents\Favela Delivery entrega de janeiro\FavelaDelivery-esse aqui\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Remakker\Documents\Favela Delivery entrega de janeiro\FavelaDelivery-esse aqui\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Remakker\Documents\Favela Delivery entrega de janeiro\FavelaDelivery-esse aqui\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Remakker\Documents\Favela Delivery entrega de janeiro\FavelaDelivery-esse aqui\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Remakker\Documents\Favela Delivery entrega de janeiro\FavelaDelivery-esse aqui\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Remakker\Documents\Favela Delivery entrega de janeiro\FavelaDelivery-esse aqui\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Remakker\Documents\Favela Delivery entrega de janeiro\FavelaDelivery-esse aqui\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Remakker\Documents\Favela Delivery entrega de janeiro\FavelaDelivery-esse aqui\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Remakker\Documents\Favela Delivery entrega de janeiro\FavelaDelivery-esse aqui\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Remakker\Documents\Favela Delivery entrega de janeiro\FavelaDelivery-esse aqui\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Remakker\Documents\Favela Delivery entrega de janeiro\FavelaDelivery-esse aqui\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Remakker\Documents\Favela Delivery entrega de janeiro\FavelaDelivery-esse aqui\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Remakker\Documents\Favela Delivery entrega de janeiro\FavelaDelivery-esse aqui\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Remakker\Documents\Favela Delivery entrega de janeiro\FavelaDelivery-esse aqui\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Remakker\Documents\Favela Delivery entrega de janeiro\FavelaDelivery-esse aqui\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Remakker\Documents\Favela Delivery entrega de janeiro\FavelaDelivery-esse aqui\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Remakker\Documents\Favela Delivery entrega de janeiro\FavelaDelivery-esse aqui\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Remakker\Documents\Favela Delivery entrega de janeiro\FavelaDelivery-esse aqui\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Remakker\Documents\Favela Delivery entrega de janeiro\FavelaDelivery-esse aqui\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Remakker\Documents\Favela Delivery entrega de janeiro\FavelaDelivery-esse aqui\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Remakker\Documents\Favela Delivery entrega de janeiro\FavelaDelivery-esse aqui\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Remakker\Documents\Favela Delivery entrega de janeiro\FavelaDelivery-esse aqui\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Remakker\Documents\Favela Delivery entrega de janeiro\FavelaDelivery-esse aqui\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Remakker\Documents\Favela Delivery entrega de janeiro\FavelaDelivery-esse aqui\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Remakker\Documents\Favela Delivery entrega de janeiro\FavelaDelivery-esse aqui\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Remakker\Documents\Favela Delivery entrega de janeiro\FavelaDelivery-esse aqui\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Remakker\Documents\Favela Delivery entrega de janeiro\FavelaDelivery-esse aqui\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Remakker\Documents\Favela Delivery entrega de janeiro\FavelaDelivery-esse aqui\obj\Debug\net5.0\FavelaDelivery.csproj.AssemblyReference.cache
+C:\Users\Remakker\Documents\Favela Delivery entrega de janeiro\FavelaDelivery-esse aqui\obj\Debug\net5.0\FavelaDelivery.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Remakker\Documents\Favela Delivery entrega de janeiro\FavelaDelivery-esse aqui\obj\Debug\net5.0\FavelaDelivery.AssemblyInfoInputs.cache
+C:\Users\Remakker\Documents\Favela Delivery entrega de janeiro\FavelaDelivery-esse aqui\obj\Debug\net5.0\FavelaDelivery.AssemblyInfo.cs
+C:\Users\Remakker\Documents\Favela Delivery entrega de janeiro\FavelaDelivery-esse aqui\obj\Debug\net5.0\FavelaDelivery.csproj.CoreCompileInputs.cache
+C:\Users\Remakker\Documents\Favela Delivery entrega de janeiro\FavelaDelivery-esse aqui\obj\Debug\net5.0\FavelaDelivery.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Remakker\Documents\Favela Delivery entrega de janeiro\FavelaDelivery-esse aqui\obj\Debug\net5.0\FavelaDelivery.RazorAssemblyInfo.cache
+C:\Users\Remakker\Documents\Favela Delivery entrega de janeiro\FavelaDelivery-esse aqui\obj\Debug\net5.0\FavelaDelivery.RazorAssemblyInfo.cs
+C:\Users\Remakker\Documents\Favela Delivery entrega de janeiro\FavelaDelivery-esse aqui\obj\Debug\net5.0\staticwebassets\FavelaDelivery.StaticWebAssets.Manifest.cache
+C:\Users\Remakker\Documents\Favela Delivery entrega de janeiro\FavelaDelivery-esse aqui\obj\Debug\net5.0\staticwebassets\FavelaDelivery.StaticWebAssets.xml
+C:\Users\Remakker\Documents\Favela Delivery entrega de janeiro\FavelaDelivery-esse aqui\obj\Debug\net5.0\scopedcss\bundle\FavelaDelivery.styles.css
+C:\Users\Remakker\Documents\Favela Delivery entrega de janeiro\FavelaDelivery-esse aqui\obj\Debug\net5.0\FavelaDelivery.TagHelpers.input.cache
+C:\Users\Remakker\Documents\Favela Delivery entrega de janeiro\FavelaDelivery-esse aqui\obj\Debug\net5.0\FavelaDelivery.TagHelpers.output.cache
+C:\Users\Remakker\Documents\Favela Delivery entrega de janeiro\FavelaDelivery-esse aqui\obj\Debug\net5.0\FavelaDelivery.RazorCoreGenerate.cache
+C:\Users\Remakker\Documents\Favela Delivery entrega de janeiro\FavelaDelivery-esse aqui\obj\Debug\net5.0\Razor\Views\CadastroClientes\Create.cshtml.g.cs
+C:\Users\Remakker\Documents\Favela Delivery entrega de janeiro\FavelaDelivery-esse aqui\obj\Debug\net5.0\Razor\Views\CadastroClientes\Delete.cshtml.g.cs
+C:\Users\Remakker\Documents\Favela Delivery entrega de janeiro\FavelaDelivery-esse aqui\obj\Debug\net5.0\Razor\Views\CadastroClientes\Details.cshtml.g.cs
+C:\Users\Remakker\Documents\Favela Delivery entrega de janeiro\FavelaDelivery-esse aqui\obj\Debug\net5.0\Razor\Views\CadastroClientes\Edit.cshtml.g.cs
+C:\Users\Remakker\Documents\Favela Delivery entrega de janeiro\FavelaDelivery-esse aqui\obj\Debug\net5.0\Razor\Views\CadastroClientes\Index.cshtml.g.cs
+C:\Users\Remakker\Documents\Favela Delivery entrega de janeiro\FavelaDelivery-esse aqui\obj\Debug\net5.0\Razor\Views\CadastroEmpreendedors\Create.cshtml.g.cs
+C:\Users\Remakker\Documents\Favela Delivery entrega de janeiro\FavelaDelivery-esse aqui\obj\Debug\net5.0\Razor\Views\CadastroEmpreendedors\Delete.cshtml.g.cs
+C:\Users\Remakker\Documents\Favela Delivery entrega de janeiro\FavelaDelivery-esse aqui\obj\Debug\net5.0\Razor\Views\CadastroEmpreendedors\Details.cshtml.g.cs
+C:\Users\Remakker\Documents\Favela Delivery entrega de janeiro\FavelaDelivery-esse aqui\obj\Debug\net5.0\Razor\Views\CadastroEmpreendedors\Edit.cshtml.g.cs
+C:\Users\Remakker\Documents\Favela Delivery entrega de janeiro\FavelaDelivery-esse aqui\obj\Debug\net5.0\Razor\Views\CadastroEmpreendedors\Index.cshtml.g.cs
+C:\Users\Remakker\Documents\Favela Delivery entrega de janeiro\FavelaDelivery-esse aqui\obj\Debug\net5.0\Razor\Views\CadastroEntregadors\Create.cshtml.g.cs
+C:\Users\Remakker\Documents\Favela Delivery entrega de janeiro\FavelaDelivery-esse aqui\obj\Debug\net5.0\Razor\Views\CadastroEntregadors\Delete.cshtml.g.cs
+C:\Users\Remakker\Documents\Favela Delivery entrega de janeiro\FavelaDelivery-esse aqui\obj\Debug\net5.0\Razor\Views\CadastroEntregadors\Details.cshtml.g.cs
+C:\Users\Remakker\Documents\Favela Delivery entrega de janeiro\FavelaDelivery-esse aqui\obj\Debug\net5.0\Razor\Views\CadastroEntregadors\Edit.cshtml.g.cs
+C:\Users\Remakker\Documents\Favela Delivery entrega de janeiro\FavelaDelivery-esse aqui\obj\Debug\net5.0\Razor\Views\CadastroEntregadors\Index.cshtml.g.cs
+C:\Users\Remakker\Documents\Favela Delivery entrega de janeiro\FavelaDelivery-esse aqui\obj\Debug\net5.0\Razor\Views\Home\Cdastro.cshtml.g.cs
+C:\Users\Remakker\Documents\Favela Delivery entrega de janeiro\FavelaDelivery-esse aqui\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Remakker\Documents\Favela Delivery entrega de janeiro\FavelaDelivery-esse aqui\obj\Debug\net5.0\Razor\Views\Home\Pedidos.cshtml.g.cs
+C:\Users\Remakker\Documents\Favela Delivery entrega de janeiro\FavelaDelivery-esse aqui\obj\Debug\net5.0\Razor\Views\Home\QuemSomos.cshtml.g.cs
+C:\Users\Remakker\Documents\Favela Delivery entrega de janeiro\FavelaDelivery-esse aqui\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Remakker\Documents\Favela Delivery entrega de janeiro\FavelaDelivery-esse aqui\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Remakker\Documents\Favela Delivery entrega de janeiro\FavelaDelivery-esse aqui\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Remakker\Documents\Favela Delivery entrega de janeiro\FavelaDelivery-esse aqui\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Remakker\Documents\Favela Delivery entrega de janeiro\FavelaDelivery-esse aqui\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Remakker\Documents\Favela Delivery entrega de janeiro\FavelaDelivery-esse aqui\obj\Debug\net5.0\FavelaDelivery.RazorTargetAssemblyInfo.cache
+C:\Users\Remakker\Documents\Favela Delivery entrega de janeiro\FavelaDelivery-esse aqui\obj\Debug\net5.0\FavelaDelivery.RazorTargetAssemblyInfo.cs
+C:\Users\Remakker\Documents\Favela Delivery entrega de janeiro\FavelaDelivery-esse aqui\obj\Debug\net5.0\FavelaDelivery.Views.pdb
+C:\Users\Remakker\Documents\Favela Delivery entrega de janeiro\FavelaDelivery-esse aqui\obj\Debug\net5.0\FavelaDelivery.csproj.CopyComplete
+C:\Users\Remakker\Documents\Favela Delivery entrega de janeiro\FavelaDelivery-esse aqui\obj\Debug\net5.0\FavelaDelivery.dll
+C:\Users\Remakker\Documents\Favela Delivery entrega de janeiro\FavelaDelivery-esse aqui\obj\Debug\net5.0\ref\FavelaDelivery.dll
+C:\Users\Remakker\Documents\Favela Delivery entrega de janeiro\FavelaDelivery-esse aqui\obj\Debug\net5.0\FavelaDelivery.pdb
+C:\Users\Remakker\Documents\Favela Delivery entrega de janeiro\FavelaDelivery-esse aqui\obj\Debug\net5.0\FavelaDelivery.genruntimeconfig.cache
+C:\Users\Suhellyn\Desktop\FavelaDelivery-esse aqui\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Suhellyn\Desktop\FavelaDelivery-esse aqui\bin\Debug\net5.0\appsettings.json
+C:\Users\Suhellyn\Desktop\FavelaDelivery-esse aqui\bin\Debug\net5.0\FavelaDelivery.StaticWebAssets.xml
+C:\Users\Suhellyn\Desktop\FavelaDelivery-esse aqui\bin\Debug\net5.0\FavelaDelivery.exe
+C:\Users\Suhellyn\Desktop\FavelaDelivery-esse aqui\bin\Debug\net5.0\FavelaDelivery.deps.json
+C:\Users\Suhellyn\Desktop\FavelaDelivery-esse aqui\bin\Debug\net5.0\FavelaDelivery.runtimeconfig.json
+C:\Users\Suhellyn\Desktop\FavelaDelivery-esse aqui\bin\Debug\net5.0\FavelaDelivery.runtimeconfig.dev.json
+C:\Users\Suhellyn\Desktop\FavelaDelivery-esse aqui\bin\Debug\net5.0\FavelaDelivery.dll
+C:\Users\Suhellyn\Desktop\FavelaDelivery-esse aqui\bin\Debug\net5.0\ref\FavelaDelivery.dll
+C:\Users\Suhellyn\Desktop\FavelaDelivery-esse aqui\bin\Debug\net5.0\FavelaDelivery.pdb
+C:\Users\Suhellyn\Desktop\FavelaDelivery-esse aqui\bin\Debug\net5.0\FavelaDelivery.Views.dll
+C:\Users\Suhellyn\Desktop\FavelaDelivery-esse aqui\bin\Debug\net5.0\FavelaDelivery.Views.pdb
+C:\Users\Suhellyn\Desktop\FavelaDelivery-esse aqui\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Suhellyn\Desktop\FavelaDelivery-esse aqui\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Suhellyn\Desktop\FavelaDelivery-esse aqui\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Suhellyn\Desktop\FavelaDelivery-esse aqui\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\Suhellyn\Desktop\FavelaDelivery-esse aqui\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Suhellyn\Desktop\FavelaDelivery-esse aqui\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Suhellyn\Desktop\FavelaDelivery-esse aqui\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Suhellyn\Desktop\FavelaDelivery-esse aqui\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Suhellyn\Desktop\FavelaDelivery-esse aqui\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Suhellyn\Desktop\FavelaDelivery-esse aqui\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Suhellyn\Desktop\FavelaDelivery-esse aqui\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Suhellyn\Desktop\FavelaDelivery-esse aqui\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Suhellyn\Desktop\FavelaDelivery-esse aqui\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Suhellyn\Desktop\FavelaDelivery-esse aqui\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Suhellyn\Desktop\FavelaDelivery-esse aqui\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Suhellyn\Desktop\FavelaDelivery-esse aqui\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Suhellyn\Desktop\FavelaDelivery-esse aqui\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Suhellyn\Desktop\FavelaDelivery-esse aqui\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Suhellyn\Desktop\FavelaDelivery-esse aqui\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Suhellyn\Desktop\FavelaDelivery-esse aqui\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Suhellyn\Desktop\FavelaDelivery-esse aqui\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Suhellyn\Desktop\FavelaDelivery-esse aqui\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Suhellyn\Desktop\FavelaDelivery-esse aqui\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Suhellyn\Desktop\FavelaDelivery-esse aqui\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Suhellyn\Desktop\FavelaDelivery-esse aqui\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Suhellyn\Desktop\FavelaDelivery-esse aqui\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Suhellyn\Desktop\FavelaDelivery-esse aqui\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Suhellyn\Desktop\FavelaDelivery-esse aqui\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Suhellyn\Desktop\FavelaDelivery-esse aqui\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Suhellyn\Desktop\FavelaDelivery-esse aqui\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Suhellyn\Desktop\FavelaDelivery-esse aqui\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\Suhellyn\Desktop\FavelaDelivery-esse aqui\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\Suhellyn\Desktop\FavelaDelivery-esse aqui\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\Suhellyn\Desktop\FavelaDelivery-esse aqui\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\Suhellyn\Desktop\FavelaDelivery-esse aqui\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\Suhellyn\Desktop\FavelaDelivery-esse aqui\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Suhellyn\Desktop\FavelaDelivery-esse aqui\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Suhellyn\Desktop\FavelaDelivery-esse aqui\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Suhellyn\Desktop\FavelaDelivery-esse aqui\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Suhellyn\Desktop\FavelaDelivery-esse aqui\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Suhellyn\Desktop\FavelaDelivery-esse aqui\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Suhellyn\Desktop\FavelaDelivery-esse aqui\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Suhellyn\Desktop\FavelaDelivery-esse aqui\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Suhellyn\Desktop\FavelaDelivery-esse aqui\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Suhellyn\Desktop\FavelaDelivery-esse aqui\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Suhellyn\Desktop\FavelaDelivery-esse aqui\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Suhellyn\Desktop\FavelaDelivery-esse aqui\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Suhellyn\Desktop\FavelaDelivery-esse aqui\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Suhellyn\Desktop\FavelaDelivery-esse aqui\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Suhellyn\Desktop\FavelaDelivery-esse aqui\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Suhellyn\Desktop\FavelaDelivery-esse aqui\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Suhellyn\Desktop\FavelaDelivery-esse aqui\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Suhellyn\Desktop\FavelaDelivery-esse aqui\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Suhellyn\Desktop\FavelaDelivery-esse aqui\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Suhellyn\Desktop\FavelaDelivery-esse aqui\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Suhellyn\Desktop\FavelaDelivery-esse aqui\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Suhellyn\Desktop\FavelaDelivery-esse aqui\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Suhellyn\Desktop\FavelaDelivery-esse aqui\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Suhellyn\Desktop\FavelaDelivery-esse aqui\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Suhellyn\Desktop\FavelaDelivery-esse aqui\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Suhellyn\Desktop\FavelaDelivery-esse aqui\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Suhellyn\Desktop\FavelaDelivery-esse aqui\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Suhellyn\Desktop\FavelaDelivery-esse aqui\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Suhellyn\Desktop\FavelaDelivery-esse aqui\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Suhellyn\Desktop\FavelaDelivery-esse aqui\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Suhellyn\Desktop\FavelaDelivery-esse aqui\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Suhellyn\Desktop\FavelaDelivery-esse aqui\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Suhellyn\Desktop\FavelaDelivery-esse aqui\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Suhellyn\Desktop\FavelaDelivery-esse aqui\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Suhellyn\Desktop\FavelaDelivery-esse aqui\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Suhellyn\Desktop\FavelaDelivery-esse aqui\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Suhellyn\Desktop\FavelaDelivery-esse aqui\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Suhellyn\Desktop\FavelaDelivery-esse aqui\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Suhellyn\Desktop\FavelaDelivery-esse aqui\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Suhellyn\Desktop\FavelaDelivery-esse aqui\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Suhellyn\Desktop\FavelaDelivery-esse aqui\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Suhellyn\Desktop\FavelaDelivery-esse aqui\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Suhellyn\Desktop\FavelaDelivery-esse aqui\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Suhellyn\Desktop\FavelaDelivery-esse aqui\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Suhellyn\Desktop\FavelaDelivery-esse aqui\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Suhellyn\Desktop\FavelaDelivery-esse aqui\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Suhellyn\Desktop\FavelaDelivery-esse aqui\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Suhellyn\Desktop\FavelaDelivery-esse aqui\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Suhellyn\Desktop\FavelaDelivery-esse aqui\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Suhellyn\Desktop\FavelaDelivery-esse aqui\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Suhellyn\Desktop\FavelaDelivery-esse aqui\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Suhellyn\Desktop\FavelaDelivery-esse aqui\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Suhellyn\Desktop\FavelaDelivery-esse aqui\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Suhellyn\Desktop\FavelaDelivery-esse aqui\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Suhellyn\Desktop\FavelaDelivery-esse aqui\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Suhellyn\Desktop\FavelaDelivery-esse aqui\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Suhellyn\Desktop\FavelaDelivery-esse aqui\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Suhellyn\Desktop\FavelaDelivery-esse aqui\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Suhellyn\Desktop\FavelaDelivery-esse aqui\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Suhellyn\Desktop\FavelaDelivery-esse aqui\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Suhellyn\Desktop\FavelaDelivery-esse aqui\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Suhellyn\Desktop\FavelaDelivery-esse aqui\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Suhellyn\Desktop\FavelaDelivery-esse aqui\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Suhellyn\Desktop\FavelaDelivery-esse aqui\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Suhellyn\Desktop\FavelaDelivery-esse aqui\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Suhellyn\Desktop\FavelaDelivery-esse aqui\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Suhellyn\Desktop\FavelaDelivery-esse aqui\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Suhellyn\Desktop\FavelaDelivery-esse aqui\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Suhellyn\Desktop\FavelaDelivery-esse aqui\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Suhellyn\Desktop\FavelaDelivery-esse aqui\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Suhellyn\Desktop\FavelaDelivery-esse aqui\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Suhellyn\Desktop\FavelaDelivery-esse aqui\obj\Debug\net5.0\FavelaDelivery.csproj.AssemblyReference.cache
+C:\Users\Suhellyn\Desktop\FavelaDelivery-esse aqui\obj\Debug\net5.0\FavelaDelivery.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Suhellyn\Desktop\FavelaDelivery-esse aqui\obj\Debug\net5.0\FavelaDelivery.AssemblyInfoInputs.cache
+C:\Users\Suhellyn\Desktop\FavelaDelivery-esse aqui\obj\Debug\net5.0\FavelaDelivery.AssemblyInfo.cs
+C:\Users\Suhellyn\Desktop\FavelaDelivery-esse aqui\obj\Debug\net5.0\FavelaDelivery.csproj.CoreCompileInputs.cache
+C:\Users\Suhellyn\Desktop\FavelaDelivery-esse aqui\obj\Debug\net5.0\FavelaDelivery.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Suhellyn\Desktop\FavelaDelivery-esse aqui\obj\Debug\net5.0\FavelaDelivery.RazorAssemblyInfo.cache
+C:\Users\Suhellyn\Desktop\FavelaDelivery-esse aqui\obj\Debug\net5.0\FavelaDelivery.RazorAssemblyInfo.cs
+C:\Users\Suhellyn\Desktop\FavelaDelivery-esse aqui\obj\Debug\net5.0\scopedcss\bundle\FavelaDelivery.styles.css
+C:\Users\Suhellyn\Desktop\FavelaDelivery-esse aqui\obj\Debug\net5.0\staticwebassets\FavelaDelivery.StaticWebAssets.Manifest.cache
+C:\Users\Suhellyn\Desktop\FavelaDelivery-esse aqui\obj\Debug\net5.0\FavelaDelivery.TagHelpers.input.cache
+C:\Users\Suhellyn\Desktop\FavelaDelivery-esse aqui\obj\Debug\net5.0\FavelaDelivery.TagHelpers.output.cache
+C:\Users\Suhellyn\Desktop\FavelaDelivery-esse aqui\obj\Debug\net5.0\FavelaDelivery.RazorCoreGenerate.cache
+C:\Users\Suhellyn\Desktop\FavelaDelivery-esse aqui\obj\Debug\net5.0\Razor\Views\CadastroClientes\Create.cshtml.g.cs
+C:\Users\Suhellyn\Desktop\FavelaDelivery-esse aqui\obj\Debug\net5.0\Razor\Views\CadastroClientes\Delete.cshtml.g.cs
+C:\Users\Suhellyn\Desktop\FavelaDelivery-esse aqui\obj\Debug\net5.0\Razor\Views\CadastroClientes\Details.cshtml.g.cs
+C:\Users\Suhellyn\Desktop\FavelaDelivery-esse aqui\obj\Debug\net5.0\Razor\Views\CadastroClientes\Edit.cshtml.g.cs
+C:\Users\Suhellyn\Desktop\FavelaDelivery-esse aqui\obj\Debug\net5.0\Razor\Views\CadastroClientes\Index.cshtml.g.cs
+C:\Users\Suhellyn\Desktop\FavelaDelivery-esse aqui\obj\Debug\net5.0\Razor\Views\CadastroEmpreendedors\Create.cshtml.g.cs
+C:\Users\Suhellyn\Desktop\FavelaDelivery-esse aqui\obj\Debug\net5.0\Razor\Views\CadastroEmpreendedors\Delete.cshtml.g.cs
+C:\Users\Suhellyn\Desktop\FavelaDelivery-esse aqui\obj\Debug\net5.0\Razor\Views\CadastroEmpreendedors\Details.cshtml.g.cs
+C:\Users\Suhellyn\Desktop\FavelaDelivery-esse aqui\obj\Debug\net5.0\Razor\Views\CadastroEmpreendedors\Edit.cshtml.g.cs
+C:\Users\Suhellyn\Desktop\FavelaDelivery-esse aqui\obj\Debug\net5.0\Razor\Views\CadastroEmpreendedors\Index.cshtml.g.cs
+C:\Users\Suhellyn\Desktop\FavelaDelivery-esse aqui\obj\Debug\net5.0\Razor\Views\CadastroEntregadors\Create.cshtml.g.cs
+C:\Users\Suhellyn\Desktop\FavelaDelivery-esse aqui\obj\Debug\net5.0\Razor\Views\CadastroEntregadors\Delete.cshtml.g.cs
+C:\Users\Suhellyn\Desktop\FavelaDelivery-esse aqui\obj\Debug\net5.0\Razor\Views\CadastroEntregadors\Details.cshtml.g.cs
+C:\Users\Suhellyn\Desktop\FavelaDelivery-esse aqui\obj\Debug\net5.0\Razor\Views\CadastroEntregadors\Edit.cshtml.g.cs
+C:\Users\Suhellyn\Desktop\FavelaDelivery-esse aqui\obj\Debug\net5.0\Razor\Views\CadastroEntregadors\Index.cshtml.g.cs
+C:\Users\Suhellyn\Desktop\FavelaDelivery-esse aqui\obj\Debug\net5.0\Razor\Views\Home\Cdastro.cshtml.g.cs
+C:\Users\Suhellyn\Desktop\FavelaDelivery-esse aqui\obj\Debug\net5.0\Razor\Views\Home\Contato.cshtml.g.cs
+C:\Users\Suhellyn\Desktop\FavelaDelivery-esse aqui\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Suhellyn\Desktop\FavelaDelivery-esse aqui\obj\Debug\net5.0\Razor\Views\Home\Pedidos.cshtml.g.cs
+C:\Users\Suhellyn\Desktop\FavelaDelivery-esse aqui\obj\Debug\net5.0\Razor\Views\Home\QuemSomos.cshtml.g.cs
+C:\Users\Suhellyn\Desktop\FavelaDelivery-esse aqui\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Suhellyn\Desktop\FavelaDelivery-esse aqui\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Suhellyn\Desktop\FavelaDelivery-esse aqui\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Suhellyn\Desktop\FavelaDelivery-esse aqui\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Suhellyn\Desktop\FavelaDelivery-esse aqui\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Suhellyn\Desktop\FavelaDelivery-esse aqui\obj\Debug\net5.0\FavelaDelivery.RazorTargetAssemblyInfo.cache
+C:\Users\Suhellyn\Desktop\FavelaDelivery-esse aqui\obj\Debug\net5.0\FavelaDelivery.RazorTargetAssemblyInfo.cs
+C:\Users\Suhellyn\Desktop\FavelaDelivery-esse aqui\obj\Debug\net5.0\FavelaDelivery.Views.pdb
+C:\Users\Suhellyn\Desktop\FavelaDelivery-esse aqui\obj\Debug\net5.0\FavelaDelivery.csproj.CopyComplete
+C:\Users\Suhellyn\Desktop\FavelaDelivery-esse aqui\obj\Debug\net5.0\FavelaDelivery.dll
+C:\Users\Suhellyn\Desktop\FavelaDelivery-esse aqui\obj\Debug\net5.0\ref\FavelaDelivery.dll
+C:\Users\Suhellyn\Desktop\FavelaDelivery-esse aqui\obj\Debug\net5.0\FavelaDelivery.pdb
+C:\Users\Suhellyn\Desktop\FavelaDelivery-esse aqui\obj\Debug\net5.0\FavelaDelivery.genruntimeconfig.cache
+C:\Users\Suhellyn\Desktop\Nova pasta (3)\FavelaDelivery-esse aqui\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Suhellyn\Desktop\Nova pasta (3)\FavelaDelivery-esse aqui\bin\Debug\net5.0\appsettings.json
+C:\Users\Suhellyn\Desktop\Nova pasta (3)\FavelaDelivery-esse aqui\bin\Debug\net5.0\FavelaDelivery.StaticWebAssets.xml
+C:\Users\Suhellyn\Desktop\Nova pasta (3)\FavelaDelivery-esse aqui\bin\Debug\net5.0\FavelaDelivery.exe
+C:\Users\Suhellyn\Desktop\Nova pasta (3)\FavelaDelivery-esse aqui\bin\Debug\net5.0\FavelaDelivery.deps.json
+C:\Users\Suhellyn\Desktop\Nova pasta (3)\FavelaDelivery-esse aqui\bin\Debug\net5.0\FavelaDelivery.runtimeconfig.json
+C:\Users\Suhellyn\Desktop\Nova pasta (3)\FavelaDelivery-esse aqui\bin\Debug\net5.0\FavelaDelivery.runtimeconfig.dev.json
+C:\Users\Suhellyn\Desktop\Nova pasta (3)\FavelaDelivery-esse aqui\bin\Debug\net5.0\FavelaDelivery.dll
+C:\Users\Suhellyn\Desktop\Nova pasta (3)\FavelaDelivery-esse aqui\bin\Debug\net5.0\ref\FavelaDelivery.dll
+C:\Users\Suhellyn\Desktop\Nova pasta (3)\FavelaDelivery-esse aqui\bin\Debug\net5.0\FavelaDelivery.pdb
+C:\Users\Suhellyn\Desktop\Nova pasta (3)\FavelaDelivery-esse aqui\bin\Debug\net5.0\FavelaDelivery.Views.dll
+C:\Users\Suhellyn\Desktop\Nova pasta (3)\FavelaDelivery-esse aqui\bin\Debug\net5.0\FavelaDelivery.Views.pdb
+C:\Users\Suhellyn\Desktop\Nova pasta (3)\FavelaDelivery-esse aqui\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Suhellyn\Desktop\Nova pasta (3)\FavelaDelivery-esse aqui\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Suhellyn\Desktop\Nova pasta (3)\FavelaDelivery-esse aqui\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Suhellyn\Desktop\Nova pasta (3)\FavelaDelivery-esse aqui\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\Suhellyn\Desktop\Nova pasta (3)\FavelaDelivery-esse aqui\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Suhellyn\Desktop\Nova pasta (3)\FavelaDelivery-esse aqui\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Suhellyn\Desktop\Nova pasta (3)\FavelaDelivery-esse aqui\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Suhellyn\Desktop\Nova pasta (3)\FavelaDelivery-esse aqui\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Suhellyn\Desktop\Nova pasta (3)\FavelaDelivery-esse aqui\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Suhellyn\Desktop\Nova pasta (3)\FavelaDelivery-esse aqui\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Suhellyn\Desktop\Nova pasta (3)\FavelaDelivery-esse aqui\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Suhellyn\Desktop\Nova pasta (3)\FavelaDelivery-esse aqui\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Suhellyn\Desktop\Nova pasta (3)\FavelaDelivery-esse aqui\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Suhellyn\Desktop\Nova pasta (3)\FavelaDelivery-esse aqui\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Suhellyn\Desktop\Nova pasta (3)\FavelaDelivery-esse aqui\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Suhellyn\Desktop\Nova pasta (3)\FavelaDelivery-esse aqui\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Suhellyn\Desktop\Nova pasta (3)\FavelaDelivery-esse aqui\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Suhellyn\Desktop\Nova pasta (3)\FavelaDelivery-esse aqui\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Suhellyn\Desktop\Nova pasta (3)\FavelaDelivery-esse aqui\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Suhellyn\Desktop\Nova pasta (3)\FavelaDelivery-esse aqui\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Suhellyn\Desktop\Nova pasta (3)\FavelaDelivery-esse aqui\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Suhellyn\Desktop\Nova pasta (3)\FavelaDelivery-esse aqui\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Suhellyn\Desktop\Nova pasta (3)\FavelaDelivery-esse aqui\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Suhellyn\Desktop\Nova pasta (3)\FavelaDelivery-esse aqui\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Suhellyn\Desktop\Nova pasta (3)\FavelaDelivery-esse aqui\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Suhellyn\Desktop\Nova pasta (3)\FavelaDelivery-esse aqui\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Suhellyn\Desktop\Nova pasta (3)\FavelaDelivery-esse aqui\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Suhellyn\Desktop\Nova pasta (3)\FavelaDelivery-esse aqui\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Suhellyn\Desktop\Nova pasta (3)\FavelaDelivery-esse aqui\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Suhellyn\Desktop\Nova pasta (3)\FavelaDelivery-esse aqui\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Suhellyn\Desktop\Nova pasta (3)\FavelaDelivery-esse aqui\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\Suhellyn\Desktop\Nova pasta (3)\FavelaDelivery-esse aqui\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\Suhellyn\Desktop\Nova pasta (3)\FavelaDelivery-esse aqui\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\Suhellyn\Desktop\Nova pasta (3)\FavelaDelivery-esse aqui\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\Suhellyn\Desktop\Nova pasta (3)\FavelaDelivery-esse aqui\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\Suhellyn\Desktop\Nova pasta (3)\FavelaDelivery-esse aqui\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Suhellyn\Desktop\Nova pasta (3)\FavelaDelivery-esse aqui\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Suhellyn\Desktop\Nova pasta (3)\FavelaDelivery-esse aqui\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Suhellyn\Desktop\Nova pasta (3)\FavelaDelivery-esse aqui\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Suhellyn\Desktop\Nova pasta (3)\FavelaDelivery-esse aqui\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Suhellyn\Desktop\Nova pasta (3)\FavelaDelivery-esse aqui\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Suhellyn\Desktop\Nova pasta (3)\FavelaDelivery-esse aqui\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Suhellyn\Desktop\Nova pasta (3)\FavelaDelivery-esse aqui\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Suhellyn\Desktop\Nova pasta (3)\FavelaDelivery-esse aqui\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Suhellyn\Desktop\Nova pasta (3)\FavelaDelivery-esse aqui\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Suhellyn\Desktop\Nova pasta (3)\FavelaDelivery-esse aqui\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Suhellyn\Desktop\Nova pasta (3)\FavelaDelivery-esse aqui\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Suhellyn\Desktop\Nova pasta (3)\FavelaDelivery-esse aqui\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Suhellyn\Desktop\Nova pasta (3)\FavelaDelivery-esse aqui\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Suhellyn\Desktop\Nova pasta (3)\FavelaDelivery-esse aqui\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Suhellyn\Desktop\Nova pasta (3)\FavelaDelivery-esse aqui\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Suhellyn\Desktop\Nova pasta (3)\FavelaDelivery-esse aqui\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Suhellyn\Desktop\Nova pasta (3)\FavelaDelivery-esse aqui\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Suhellyn\Desktop\Nova pasta (3)\FavelaDelivery-esse aqui\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Suhellyn\Desktop\Nova pasta (3)\FavelaDelivery-esse aqui\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Suhellyn\Desktop\Nova pasta (3)\FavelaDelivery-esse aqui\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Suhellyn\Desktop\Nova pasta (3)\FavelaDelivery-esse aqui\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Suhellyn\Desktop\Nova pasta (3)\FavelaDelivery-esse aqui\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Suhellyn\Desktop\Nova pasta (3)\FavelaDelivery-esse aqui\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Suhellyn\Desktop\Nova pasta (3)\FavelaDelivery-esse aqui\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Suhellyn\Desktop\Nova pasta (3)\FavelaDelivery-esse aqui\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Suhellyn\Desktop\Nova pasta (3)\FavelaDelivery-esse aqui\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Suhellyn\Desktop\Nova pasta (3)\FavelaDelivery-esse aqui\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Suhellyn\Desktop\Nova pasta (3)\FavelaDelivery-esse aqui\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Suhellyn\Desktop\Nova pasta (3)\FavelaDelivery-esse aqui\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Suhellyn\Desktop\Nova pasta (3)\FavelaDelivery-esse aqui\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Suhellyn\Desktop\Nova pasta (3)\FavelaDelivery-esse aqui\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Suhellyn\Desktop\Nova pasta (3)\FavelaDelivery-esse aqui\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Suhellyn\Desktop\Nova pasta (3)\FavelaDelivery-esse aqui\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Suhellyn\Desktop\Nova pasta (3)\FavelaDelivery-esse aqui\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Suhellyn\Desktop\Nova pasta (3)\FavelaDelivery-esse aqui\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Suhellyn\Desktop\Nova pasta (3)\FavelaDelivery-esse aqui\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Suhellyn\Desktop\Nova pasta (3)\FavelaDelivery-esse aqui\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Suhellyn\Desktop\Nova pasta (3)\FavelaDelivery-esse aqui\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Suhellyn\Desktop\Nova pasta (3)\FavelaDelivery-esse aqui\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Suhellyn\Desktop\Nova pasta (3)\FavelaDelivery-esse aqui\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Suhellyn\Desktop\Nova pasta (3)\FavelaDelivery-esse aqui\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Suhellyn\Desktop\Nova pasta (3)\FavelaDelivery-esse aqui\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Suhellyn\Desktop\Nova pasta (3)\FavelaDelivery-esse aqui\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Suhellyn\Desktop\Nova pasta (3)\FavelaDelivery-esse aqui\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Suhellyn\Desktop\Nova pasta (3)\FavelaDelivery-esse aqui\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Suhellyn\Desktop\Nova pasta (3)\FavelaDelivery-esse aqui\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Suhellyn\Desktop\Nova pasta (3)\FavelaDelivery-esse aqui\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Suhellyn\Desktop\Nova pasta (3)\FavelaDelivery-esse aqui\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Suhellyn\Desktop\Nova pasta (3)\FavelaDelivery-esse aqui\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Suhellyn\Desktop\Nova pasta (3)\FavelaDelivery-esse aqui\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Suhellyn\Desktop\Nova pasta (3)\FavelaDelivery-esse aqui\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Suhellyn\Desktop\Nova pasta (3)\FavelaDelivery-esse aqui\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Suhellyn\Desktop\Nova pasta (3)\FavelaDelivery-esse aqui\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Suhellyn\Desktop\Nova pasta (3)\FavelaDelivery-esse aqui\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Suhellyn\Desktop\Nova pasta (3)\FavelaDelivery-esse aqui\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Suhellyn\Desktop\Nova pasta (3)\FavelaDelivery-esse aqui\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Suhellyn\Desktop\Nova pasta (3)\FavelaDelivery-esse aqui\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Suhellyn\Desktop\Nova pasta (3)\FavelaDelivery-esse aqui\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Suhellyn\Desktop\Nova pasta (3)\FavelaDelivery-esse aqui\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Suhellyn\Desktop\Nova pasta (3)\FavelaDelivery-esse aqui\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Suhellyn\Desktop\Nova pasta (3)\FavelaDelivery-esse aqui\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Suhellyn\Desktop\Nova pasta (3)\FavelaDelivery-esse aqui\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Suhellyn\Desktop\Nova pasta (3)\FavelaDelivery-esse aqui\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Suhellyn\Desktop\Nova pasta (3)\FavelaDelivery-esse aqui\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Suhellyn\Desktop\Nova pasta (3)\FavelaDelivery-esse aqui\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Suhellyn\Desktop\Nova pasta (3)\FavelaDelivery-esse aqui\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Suhellyn\Desktop\Nova pasta (3)\FavelaDelivery-esse aqui\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Suhellyn\Desktop\Nova pasta (3)\FavelaDelivery-esse aqui\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Suhellyn\Desktop\Nova pasta (3)\FavelaDelivery-esse aqui\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Suhellyn\Desktop\Nova pasta (3)\FavelaDelivery-esse aqui\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Suhellyn\Desktop\Nova pasta (3)\FavelaDelivery-esse aqui\obj\Debug\net5.0\FavelaDelivery.csproj.AssemblyReference.cache
+C:\Users\Suhellyn\Desktop\Nova pasta (3)\FavelaDelivery-esse aqui\obj\Debug\net5.0\FavelaDelivery.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Suhellyn\Desktop\Nova pasta (3)\FavelaDelivery-esse aqui\obj\Debug\net5.0\FavelaDelivery.AssemblyInfoInputs.cache
+C:\Users\Suhellyn\Desktop\Nova pasta (3)\FavelaDelivery-esse aqui\obj\Debug\net5.0\FavelaDelivery.AssemblyInfo.cs
+C:\Users\Suhellyn\Desktop\Nova pasta (3)\FavelaDelivery-esse aqui\obj\Debug\net5.0\FavelaDelivery.csproj.CoreCompileInputs.cache
+C:\Users\Suhellyn\Desktop\Nova pasta (3)\FavelaDelivery-esse aqui\obj\Debug\net5.0\FavelaDelivery.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Suhellyn\Desktop\Nova pasta (3)\FavelaDelivery-esse aqui\obj\Debug\net5.0\FavelaDelivery.RazorAssemblyInfo.cache
+C:\Users\Suhellyn\Desktop\Nova pasta (3)\FavelaDelivery-esse aqui\obj\Debug\net5.0\FavelaDelivery.RazorAssemblyInfo.cs
+C:\Users\Suhellyn\Desktop\Nova pasta (3)\FavelaDelivery-esse aqui\obj\Debug\net5.0\scopedcss\bundle\FavelaDelivery.styles.css
+C:\Users\Suhellyn\Desktop\Nova pasta (3)\FavelaDelivery-esse aqui\obj\Debug\net5.0\staticwebassets\FavelaDelivery.StaticWebAssets.Manifest.cache
+C:\Users\Suhellyn\Desktop\Nova pasta (3)\FavelaDelivery-esse aqui\obj\Debug\net5.0\FavelaDelivery.TagHelpers.input.cache
+C:\Users\Suhellyn\Desktop\Nova pasta (3)\FavelaDelivery-esse aqui\obj\Debug\net5.0\FavelaDelivery.TagHelpers.output.cache
+C:\Users\Suhellyn\Desktop\Nova pasta (3)\FavelaDelivery-esse aqui\obj\Debug\net5.0\FavelaDelivery.RazorCoreGenerate.cache
+C:\Users\Suhellyn\Desktop\Nova pasta (3)\FavelaDelivery-esse aqui\obj\Debug\net5.0\Razor\Views\CadastroClientes\Create.cshtml.g.cs
+C:\Users\Suhellyn\Desktop\Nova pasta (3)\FavelaDelivery-esse aqui\obj\Debug\net5.0\Razor\Views\CadastroClientes\Delete.cshtml.g.cs
+C:\Users\Suhellyn\Desktop\Nova pasta (3)\FavelaDelivery-esse aqui\obj\Debug\net5.0\Razor\Views\CadastroClientes\Details.cshtml.g.cs
+C:\Users\Suhellyn\Desktop\Nova pasta (3)\FavelaDelivery-esse aqui\obj\Debug\net5.0\Razor\Views\CadastroClientes\Edit.cshtml.g.cs
+C:\Users\Suhellyn\Desktop\Nova pasta (3)\FavelaDelivery-esse aqui\obj\Debug\net5.0\Razor\Views\CadastroClientes\Index.cshtml.g.cs
+C:\Users\Suhellyn\Desktop\Nova pasta (3)\FavelaDelivery-esse aqui\obj\Debug\net5.0\Razor\Views\CadastroEmpreendedors\Create.cshtml.g.cs
+C:\Users\Suhellyn\Desktop\Nova pasta (3)\FavelaDelivery-esse aqui\obj\Debug\net5.0\Razor\Views\CadastroEmpreendedors\Delete.cshtml.g.cs
+C:\Users\Suhellyn\Desktop\Nova pasta (3)\FavelaDelivery-esse aqui\obj\Debug\net5.0\Razor\Views\CadastroEmpreendedors\Details.cshtml.g.cs
+C:\Users\Suhellyn\Desktop\Nova pasta (3)\FavelaDelivery-esse aqui\obj\Debug\net5.0\Razor\Views\CadastroEmpreendedors\Edit.cshtml.g.cs
+C:\Users\Suhellyn\Desktop\Nova pasta (3)\FavelaDelivery-esse aqui\obj\Debug\net5.0\Razor\Views\CadastroEmpreendedors\Index.cshtml.g.cs
+C:\Users\Suhellyn\Desktop\Nova pasta (3)\FavelaDelivery-esse aqui\obj\Debug\net5.0\Razor\Views\CadastroEntregadors\Create.cshtml.g.cs
+C:\Users\Suhellyn\Desktop\Nova pasta (3)\FavelaDelivery-esse aqui\obj\Debug\net5.0\Razor\Views\CadastroEntregadors\Delete.cshtml.g.cs
+C:\Users\Suhellyn\Desktop\Nova pasta (3)\FavelaDelivery-esse aqui\obj\Debug\net5.0\Razor\Views\CadastroEntregadors\Details.cshtml.g.cs
+C:\Users\Suhellyn\Desktop\Nova pasta (3)\FavelaDelivery-esse aqui\obj\Debug\net5.0\Razor\Views\CadastroEntregadors\Edit.cshtml.g.cs
+C:\Users\Suhellyn\Desktop\Nova pasta (3)\FavelaDelivery-esse aqui\obj\Debug\net5.0\Razor\Views\CadastroEntregadors\Index.cshtml.g.cs
+C:\Users\Suhellyn\Desktop\Nova pasta (3)\FavelaDelivery-esse aqui\obj\Debug\net5.0\Razor\Views\Home\Cdastro.cshtml.g.cs
+C:\Users\Suhellyn\Desktop\Nova pasta (3)\FavelaDelivery-esse aqui\obj\Debug\net5.0\Razor\Views\Home\Contato.cshtml.g.cs
+C:\Users\Suhellyn\Desktop\Nova pasta (3)\FavelaDelivery-esse aqui\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Suhellyn\Desktop\Nova pasta (3)\FavelaDelivery-esse aqui\obj\Debug\net5.0\Razor\Views\Home\Pedidos.cshtml.g.cs
+C:\Users\Suhellyn\Desktop\Nova pasta (3)\FavelaDelivery-esse aqui\obj\Debug\net5.0\Razor\Views\Home\QuemSomos.cshtml.g.cs
+C:\Users\Suhellyn\Desktop\Nova pasta (3)\FavelaDelivery-esse aqui\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Suhellyn\Desktop\Nova pasta (3)\FavelaDelivery-esse aqui\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Suhellyn\Desktop\Nova pasta (3)\FavelaDelivery-esse aqui\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Suhellyn\Desktop\Nova pasta (3)\FavelaDelivery-esse aqui\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Suhellyn\Desktop\Nova pasta (3)\FavelaDelivery-esse aqui\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Suhellyn\Desktop\Nova pasta (3)\FavelaDelivery-esse aqui\obj\Debug\net5.0\FavelaDelivery.RazorTargetAssemblyInfo.cache
+C:\Users\Suhellyn\Desktop\Nova pasta (3)\FavelaDelivery-esse aqui\obj\Debug\net5.0\FavelaDelivery.RazorTargetAssemblyInfo.cs
+C:\Users\Suhellyn\Desktop\Nova pasta (3)\FavelaDelivery-esse aqui\obj\Debug\net5.0\FavelaDelivery.Views.pdb
+C:\Users\Suhellyn\Desktop\Nova pasta (3)\FavelaDelivery-esse aqui\obj\Debug\net5.0\FavelaDelivery.csproj.CopyComplete
+C:\Users\Suhellyn\Desktop\Nova pasta (3)\FavelaDelivery-esse aqui\obj\Debug\net5.0\FavelaDelivery.dll
+C:\Users\Suhellyn\Desktop\Nova pasta (3)\FavelaDelivery-esse aqui\obj\Debug\net5.0\ref\FavelaDelivery.dll
+C:\Users\Suhellyn\Desktop\Nova pasta (3)\FavelaDelivery-esse aqui\obj\Debug\net5.0\FavelaDelivery.pdb
+C:\Users\Suhellyn\Desktop\Nova pasta (3)\FavelaDelivery-esse aqui\obj\Debug\net5.0\FavelaDelivery.genruntimeconfig.cache

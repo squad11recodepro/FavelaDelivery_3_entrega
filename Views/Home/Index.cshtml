@@ -1,0 +1,63 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+    
+}
+
+<head>
+        <link rel="stylesheet" href="~/css/style.css" />
+</head>
+
+  <nav class="navbar navbar-expand-lg navbar-dark navbar-custom static-top">
+      <div class="container">
+      <a class="nav-link active" aria-current="page" asp-action="Index" asp-controller="Home"><img src="~/img/logo_nova.png" alt="logo Favela Delivery" height="70"></a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+          <ul class="navbar-nav ms-auto navcolor">
+            <li class="nav-item">
+              <a class="nav-link" aria-current="page" asp-action="Index" asp-controller="Home">Home</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" asp-action="Quemsomos" asp-controller="Home">Quem somos</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" asp-action="Pedidos" asp-controller="Home">Pedidos</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" asp-action="Cdastro" asp-controller="Home">Cadastro</a>
+            </li>   
+             <li class="nav-item">
+              <a class="nav-link" asp-action="Contato" asp-controller="Home">Contato</a>
+            </li>
+            <div class="icons">
+              <a href="https://www.instagram.com/favela_delivery/"  target="_blank"><i class="bi bi-instagram"></i></a>
+              <a href="https://www.facebook.com/" target="_blank"><i class="bi bi-facebook"></i></a>
+            </div>
+          </ul>
+        </div>
+      </div>
+    </nav>
+
+
+  <main class="banner">
+    <div class="container">
+      <div class="row-teste">
+        <div class="texto-banner">
+          <h1 class="titulo-banner" style="text-shadow: 1px 1px 1px #005fb2">APOIE <span class="destaque">A SUA COMUNIDADE!</span> PEÇA DE UM COMERCIANTE LOCAL.</h1>
+          <span>
+            O serviço ideal para sua necessidade de recebimento de seus produtos em sua comunidade em poucos cliques.
+            Cadastre-se grátis e comece a usar agora mesmo. Preços direto no app. Peça em Segundos. Preço Justo. Conte com a
+            gente! Cadastre-se agora!
+          </span>
+          <div class="btn-banner">
+            <a href="https://pt-br.facebook.com/"  target="_blank"><button class="btn btn-primary btn-lg" type="submit">Saiba Mais</button></a>
+          </div>
+        </div>
+        <!-- Div Imagem -->
+         <div class="div-foto-banner">
+         <img class="foto-banner" src= "~/img/foto-bg-mulher.png" alt="imagem mulher" >
+        </div>
+      </div>
+    </div>
+  </main>

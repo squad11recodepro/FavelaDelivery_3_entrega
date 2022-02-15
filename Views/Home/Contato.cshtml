@@ -1,0 +1,82 @@
+﻿@{
+    ViewData["Title"] = "Contato";
+
+}
+<head>
+    <link rel="stylesheet" href="~/css/contatos.css" />
+
+</head>
+
+<nav class="navbar navbar-expand-lg navbar-dark navbar-custom static-top">
+    <div class="container">
+        <a class="nav-link active" aria-current="page" asp-action="Index" asp-controller="Home"> <img src="~/img/logo_nova.png" alt="logo Favela Delivery" height="70"></a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav ms-auto navcolor">
+                <li class="nav-item">
+                    <a class="nav-link" aria-current="page" asp-action="Index" asp-controller="Home">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" asp-action="Quemsomos" asp-controller="Home">Quem somos</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" asp-action="Pedidos" asp-controller="Home">Pedidos</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" asp-action="Cdastro" asp-controller="Home">Cadastro</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" asp-action="Contato" asp-controller="Home">Contato</a>
+                </li>
+                <div class="icons">
+                    <a href="https://www.instagram.com/" target="_blank"><i class="bi bi-instagram"></i></a>
+                    <a href="https://www.facebook.com/" target="_blank"><i class="bi bi-facebook"></i></a>
+                </div>
+            </ul>
+        </div>
+    </div>
+</nav>
+
+<main class="container contato">
+    <h1 class="titulo">Entre em contato conosco!</h1>
+    <div class="row">
+        <div class="col-md-4">
+            <form class="formularioContato" method="post">
+                <div class="mb-3">
+                    <label for="exampleFormControlInput1" class="form-label">Nome</label>
+                    <input type="text" class="form-control" id="exampleFormControlInput1" placeholder="Nome" required/>
+                </div>
+                 <div class="mb-3">
+                    <label for="exampleFormControlInput1" class="form-label">Telefone</label>
+                    <input type="tel" class="form-control" id="exampleFormControlInput1" placeholder="(99)99999-9999"  required/>
+
+                </div>
+                <div class="mb-3">
+                    <label for="exampleFormControlInput1" class="form-label">Email</label>
+                    <input type="email" class="form-control" id="exampleFormControlInput1" placeholder="nome@example.com" required/>
+                </div>
+                <div class="mb-3">
+                    <label for="exampleFormControlTextarea1" class="form-label">Mensagem</label>
+                    <textarea class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
+                </div>
+                  <div class="form-group">
+                    <input type="submit" value="Enviar" class="btn btn-primary btnCadastro" />
+                </div>
+            </form>
+        </div>
+    </div>
+
+
+</main>
+
+
+
+
+
+
+
+
+
+

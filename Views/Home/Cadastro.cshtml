@@ -1,0 +1,32 @@
+﻿@{
+    ViewData["Title"] = "Cadastro";
+}
+
+<head>
+        <link rel="stylesheet" href="~/css/style.css" />
+</head>
+
+ <section class="cadastro">
+    <h2>Cadastro</h2>
+    <p>
+      Escolha seu segmento e faça seu cadastro.
+    </p>
+    <div class="box-cadastro">
+      <div>
+        <img src="/img/ft-empreendedor.png" class="alignnone" alt="" width="200" height="150" />
+        <h4>Empreendedor</h4>
+       <a class="nav-link text-dark" asp-area="" asp-controller="CadastroEmpreendedors" asp-action="Index">Cadastro de Empreendedores</a>
+      </div>
+      <div>
+        <img src="/img/ft-entregador.png" class="alignnone" alt="" width="200" height="150" />
+        <h4>Entregador</h4>
+         <a class="nav-link text-dark" asp-area="" asp-controller="CadastroEntregadors" asp-action="Index">Cadastro de Entregadores</a>
+      </div>
+      <div>
+        <img src="/img/ft-cliente.png" class="alignnone" alt="" width="200" height="150" />
+        <h4>Cliente</h4>
+       <a class="nav-link text-dark" asp-area="" asp-controller="CadastroClientes" asp-action="Index">Cadastro de Clientes</a>
+      </div>
+    </div>
+  </section>
+

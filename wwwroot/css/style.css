@@ -1,0 +1,301 @@
+/*
+* {
+  border: 1px solid red;
+}
+*/
+
+body {
+  height: 100vh;
+  margin: 0px;
+  padding: 0px;
+}
+
+nav {
+  background-color: #005fb2;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 15vh;
+}
+.navcolor {
+    background-color: #005fb2;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.icons {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.icons i {
+  font-size: 20px;
+  margin-left: 10px;
+  margin-right: 5px;
+  color: white;
+}
+
+.logo {
+  height: 13vh;
+  margin-left: 100px;
+}
+
+
+.login {
+  background-color: #ffae00;
+  padding: 5px;
+  border-radius: 10px;
+}
+
+.login:hover {
+  text-decoration: none;
+  color: #fff;
+}
+
+.banner {
+  background-image: linear-gradient(to right, #ffae00, #ffba26);
+  color: white;
+ 
+}
+
+.row-teste {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;  
+
+}
+  
+.foto-banner{
+  width: 700px;
+
+}
+ 
+@media (max-width: 950px){
+  .banner .row-teste {
+    flex-direction: column;
+    text-align: center;
+  
+  
+  }
+  .banner .texto-banner{
+    margin-top: 50px;
+    
+  }
+  .banner .btn-banner{
+    display: block;
+  }
+  .banner img{
+   max-width: 500px;
+  }
+
+    .quemsomos {
+        display: flex;
+        flex-direction: column;
+        flex-wrap: wrap;
+        justify-content: center;
+        align-items: center;
+        margin-left: 20%;      
+    }
+    .quemsomos-principal {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+       text-align: center;
+      
+       
+    }
+    .texto-quemsomos {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+       
+    }
+
+
+
+    .box-cadastro {
+        height: 100%;      
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+    }
+    .box-cadastro-img{
+        margin: 30px;
+    }
+
+   
+    .box-pedidos {
+        display: flex;
+        flex-direction: column;
+        flex-wrap: wrap;
+        justify-content: center;
+        align-items: center;
+    }
+    .box-pedidos-img{
+        margin: 30px;
+    }
+}
+  
+.destaque {
+  font-weight: bold;
+  color: #005fb2;
+}
+
+
+
+/* configurar cor nav bootstrap */
+.navbar-custom {
+  background-color: #005fb2;
+  margin-top: -0px;
+}
+ 
+.texto-banner {
+  display: flex;
+  flex-direction: column;
+  justify-content: center; 
+}
+.titulo-banner {
+  font-size: 3vw;
+}
+
+ 
+.btn-banner {
+  margin-top: 10%;
+  display: flex;
+  flex-direction: row;
+}
+
+.quemsomos {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 100px;
+  margin-bottom: 100px;
+ 
+}
+.quemsomos-principal {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center; 
+  width: 50%;
+}
+.texto-quemsomos {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+ 
+ 
+}
+.btn-quemsomos {
+  background-color: #ffae00;
+  width: 100px;
+  height: 40px;
+  border: none;
+  border-radius: 10px;
+}
+.quemsomos-secundario {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+  width: 50%;
+}
+
+.video-quemsomos {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}
+.pedidos {
+  height: 100%;
+  background: #ffae00;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}
+.pedidos h2,
+h4 {
+  color: white;
+  margin-top: 50px;
+  margin-left: 20%;
+  margin-right: 20%;
+}
+.box-pedidos {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+.box-pedidos img {
+  height: 200px;
+  width: 200px;
+}
+
+.cadastro {
+  height: 100%;
+  background: #ffae00;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}
+
+.cadastro h2,
+p,
+h4 {
+  color: white;
+  margin-top: 70px;
+  margin-left: 20%;
+  margin-right: 20%;
+}
+
+.box-cadastro {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  text-align: center;
+  margin: 3%;
+}
+.box-cadastro img {
+  width: 250px;
+  height: 250px;
+}
+.alignnone {
+  margin: 1px 4px 0 0;
+  padding: 3px;
+  background-color: #ffffff;
+  border: 1px solid #dbdbdb;
+}
+.cadastro button {
+  border-radius: 10px;
+  padding: 10px;
+  background-color: #005fb2;
+  color: #fff;
+}
+
+.cadastro button:hover {
+  color: #fff;
+  background-color: #005fb2;
+  font-weight: bold;
+}
+.voltar {
+  background-color: #005fb2;
+  border: 0px;
+}
+footer{
+  background-color: #005fb2;
+  color: #fff;
+  bottom:0;
+  left:0;
+}
+
+#footer .credits {
+  padding-top: 5px;
+  font-size: 13px;
+  color: #fff;
+}
+

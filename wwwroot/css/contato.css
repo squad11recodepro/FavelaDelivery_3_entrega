@@ -1,0 +1,8 @@
+﻿
+.FormContato {
+    background: url(~/img/Foto-bg-Contato.jpeg) no-repeat center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+}

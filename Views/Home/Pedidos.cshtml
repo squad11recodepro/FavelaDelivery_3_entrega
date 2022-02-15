@@ -1,0 +1,65 @@
+﻿@{
+    ViewData["Title"] = "Pedidos";
+}
+
+<head>
+        <link rel="stylesheet" href="~/css/style.css" />
+</head>
+  <nav class="navbar navbar-expand-lg navbar-dark navbar-custom static-top">
+      <div class="container">
+          <a class="navbar-brand" asp-action="Index" asp-controller="Home"><img src="~/img/logo_nova.png" alt="logo Favela Delivery" height="70"> </a>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+              <span class="navbar-toggler-icon"></span>
+          </button>
+          <div class="collapse navbar-collapse" id="navbarSupportedContent">
+              <ul class="navbar-nav ms-auto navcolor">
+                  <li class="nav-item">
+                      <a class="nav-link" aria-current="page" asp-action="Index" asp-controller="Home">Home</a>
+                  </li>
+                  <li class="nav-item">
+                      <a class="nav-link" asp-action="Quemsomos" asp-controller="Home">Quem somos</a>
+                  </li>
+                  <li class="nav-item">
+                      <a class="nav-link" asp-action="Pedidos" asp-controller="Home">Pedidos</a>
+                  </li>
+                  <li class="nav-item">
+                      <a class="nav-link" asp-action="Cdastro" asp-controller="Home">Cadastro</a>
+                  </li>
+                   <li class="nav-item">
+                      <a class="nav-link" asp-action="Contato" asp-controller="Home">Contato</a>
+                 </li>
+                  <div class="icons">
+                      <a href="https://www.instagram.com/favela_delivery/" target="_blank"><i class="bi bi-instagram"></i></a>
+                      <a href="https://www.facebook.com/" target="_blank"><i class="bi bi-facebook"></i></a>
+                  </div>
+              </ul>
+          </div>
+      </div>
+    </nav>
+  <section class="pedidos">
+    <div class="container">
+      <h2>Pedidos</h2>
+      <p>Encurtamos distâncias e viabilizamos negócios</p>
+      <div class="box-pedidos">
+        <div class="box-pedidos-img">
+          <img src="/img/ft-alimentos.png" class="alignnone" alt="" width="200" height="150" />
+          <h4>Alimentos</h4>
+          <p>Pizza Família Muçarela</p>
+        </div>
+        <div  class="box-pedidos-img">
+          <img src="/img/ft-artesanatos.png" class="alignnone" alt="" width="200" height="150" />
+          <h4>Artesanatos</h4>
+          <p>Bolsa em crochê Azul e Branca</p>
+        </div>
+        <div  class="box-pedidos-img">
+          <img src="/img/ft-eletronicos.png" class="alignnone" alt="" width="200" height="150" />
+          <h4>Eletrônicos</h4>
+          <p>
+            Tablet, Celular e Relógio Smartwatch
+          </p>
+        </div>
+      </div>
+
+    </div>
+
+  </section>

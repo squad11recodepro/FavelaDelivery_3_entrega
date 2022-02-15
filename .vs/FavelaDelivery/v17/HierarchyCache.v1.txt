@@ -1,0 +1,285 @@
+﻿++Solução 'FavelaDelivery' ‎(1 de 1 projeto)
+i:{00000000-0000-0000-0000-000000000000}:FavelaDelivery.sln
+++FavelaDelivery
+i:{00000000-0000-0000-0000-000000000000}:FavelaDelivery
+++Connected Services 
+i:{01e35a68-60bc-4d64-85a7-e73c8937c028}:>773
+++Dependências
+i:{01e35a68-60bc-4d64-85a7-e73c8937c028}:>772
+++Properties
+i:{01e35a68-60bc-4d64-85a7-e73c8937c028}:c:\users\suhellyn\desktop\faveladelivery-esse aqui\properties\
+++wwwroot
+i:{01e35a68-60bc-4d64-85a7-e73c8937c028}:c:\users\suhellyn\desktop\faveladelivery-esse aqui\wwwroot\
+++css
+i:{01e35a68-60bc-4d64-85a7-e73c8937c028}:c:\users\suhellyn\desktop\faveladelivery-esse aqui\wwwroot\css\
+i:{01e35a68-60bc-4d64-85a7-e73c8937c028}:c:\users\suhellyn\desktop\faveladelivery-esse aqui\wwwroot\lib\bootstrap\dist\css\
+++estilocc.css
+i:{01e35a68-60bc-4d64-85a7-e73c8937c028}:c:\users\suhellyn\desktop\faveladelivery-esse aqui\wwwroot\css\estilocc.css
+++login.css
+i:{01e35a68-60bc-4d64-85a7-e73c8937c028}:c:\users\suhellyn\desktop\faveladelivery-esse aqui\wwwroot\css\login.css
+++style.css
+i:{01e35a68-60bc-4d64-85a7-e73c8937c028}:c:\users\suhellyn\desktop\faveladelivery-esse aqui\wwwroot\css\style.css
+++img
+i:{01e35a68-60bc-4d64-85a7-e73c8937c028}:c:\users\suhellyn\desktop\faveladelivery-esse aqui\wwwroot\img\
+++js
+i:{01e35a68-60bc-4d64-85a7-e73c8937c028}:c:\users\suhellyn\desktop\faveladelivery-esse aqui\wwwroot\js\
+i:{01e35a68-60bc-4d64-85a7-e73c8937c028}:c:\users\suhellyn\desktop\faveladelivery-esse aqui\wwwroot\lib\bootstrap\dist\js\
+++lib
+i:{01e35a68-60bc-4d64-85a7-e73c8937c028}:c:\users\suhellyn\desktop\faveladelivery-esse aqui\wwwroot\lib\
+++favicon.ico
+i:{01e35a68-60bc-4d64-85a7-e73c8937c028}:c:\users\suhellyn\desktop\faveladelivery-esse aqui\wwwroot\favicon.ico
+i:{01e35a68-60bc-4d64-85a7-e73c8937c028}:c:\users\suhellyn\desktop\faveladelivery-esse aqui\wwwroot\img\favicon.ico
+i:{01e35a68-60bc-4d64-85a7-e73c8937c028}:c:\users\suhellyn\desktop\faveladelivery-esse aqui\wwwroot\img\icons\favicon.ico
+++Controllers
+i:{01e35a68-60bc-4d64-85a7-e73c8937c028}:c:\users\suhellyn\desktop\faveladelivery-esse aqui\controllers\
+++CadastroClientesController.cs
+i:{01e35a68-60bc-4d64-85a7-e73c8937c028}:c:\users\suhellyn\desktop\faveladelivery-esse aqui\controllers\cadastroclientescontroller.cs
+++CadastroEmpreendedorsController.cs
+i:{01e35a68-60bc-4d64-85a7-e73c8937c028}:c:\users\suhellyn\desktop\faveladelivery-esse aqui\controllers\cadastroempreendedorscontroller.cs
+++CadastroEntregadorsController.cs
+i:{01e35a68-60bc-4d64-85a7-e73c8937c028}:c:\users\suhellyn\desktop\faveladelivery-esse aqui\controllers\cadastroentregadorscontroller.cs
+++HomeController.cs
+i:{01e35a68-60bc-4d64-85a7-e73c8937c028}:c:\users\suhellyn\desktop\faveladelivery-esse aqui\controllers\homecontroller.cs
+++Migrations
+i:{01e35a68-60bc-4d64-85a7-e73c8937c028}:c:\users\suhellyn\desktop\faveladelivery-esse aqui\migrations\
+++20220110180800_teste7.cs
+i:{01e35a68-60bc-4d64-85a7-e73c8937c028}:c:\users\suhellyn\desktop\faveladelivery-esse aqui\migrations\20220110180800_teste7.cs
+++20220110215312_teste1.cs
+i:{01e35a68-60bc-4d64-85a7-e73c8937c028}:c:\users\suhellyn\desktop\faveladelivery-esse aqui\migrations\20220110215312_teste1.cs
+++ContextModelSnapshot.cs
+i:{01e35a68-60bc-4d64-85a7-e73c8937c028}:c:\users\suhellyn\desktop\faveladelivery-esse aqui\migrations\contextmodelsnapshot.cs
+++Models
+i:{01e35a68-60bc-4d64-85a7-e73c8937c028}:c:\users\suhellyn\desktop\faveladelivery-esse aqui\models\
+++CadastroCliente.cs
+i:{01e35a68-60bc-4d64-85a7-e73c8937c028}:c:\users\suhellyn\desktop\faveladelivery-esse aqui\models\cadastrocliente.cs
+++CadastroEmpreendedor.cs
+i:{01e35a68-60bc-4d64-85a7-e73c8937c028}:c:\users\suhellyn\desktop\faveladelivery-esse aqui\models\cadastroempreendedor.cs
+++CadastroEntregador.cs
+i:{01e35a68-60bc-4d64-85a7-e73c8937c028}:c:\users\suhellyn\desktop\faveladelivery-esse aqui\models\cadastroentregador.cs
+++Contato.cs
+i:{01e35a68-60bc-4d64-85a7-e73c8937c028}:c:\users\suhellyn\desktop\faveladelivery-esse aqui\models\contato.cs
+++Context.cs
+i:{01e35a68-60bc-4d64-85a7-e73c8937c028}:c:\users\suhellyn\desktop\faveladelivery-esse aqui\models\context.cs
+++ErrorViewModel.cs
+i:{01e35a68-60bc-4d64-85a7-e73c8937c028}:c:\users\suhellyn\desktop\faveladelivery-esse aqui\models\errorviewmodel.cs
+++Views
+i:{01e35a68-60bc-4d64-85a7-e73c8937c028}:c:\users\suhellyn\desktop\faveladelivery-esse aqui\views\
+++CadastroClientes
+i:{01e35a68-60bc-4d64-85a7-e73c8937c028}:c:\users\suhellyn\desktop\faveladelivery-esse aqui\views\cadastroclientes\
+++Create.cshtml
+i:{01e35a68-60bc-4d64-85a7-e73c8937c028}:c:\users\suhellyn\desktop\faveladelivery-esse aqui\views\cadastroclientes\create.cshtml
+i:{01e35a68-60bc-4d64-85a7-e73c8937c028}:c:\users\suhellyn\desktop\faveladelivery-esse aqui\views\cadastroempreendedors\create.cshtml
+i:{01e35a68-60bc-4d64-85a7-e73c8937c028}:c:\users\suhellyn\desktop\faveladelivery-esse aqui\views\cadastroentregadors\create.cshtml
+++Delete.cshtml
+i:{01e35a68-60bc-4d64-85a7-e73c8937c028}:c:\users\suhellyn\desktop\faveladelivery-esse aqui\views\cadastroclientes\delete.cshtml
+i:{01e35a68-60bc-4d64-85a7-e73c8937c028}:c:\users\suhellyn\desktop\faveladelivery-esse aqui\views\cadastroempreendedors\delete.cshtml
+i:{01e35a68-60bc-4d64-85a7-e73c8937c028}:c:\users\suhellyn\desktop\faveladelivery-esse aqui\views\cadastroentregadors\delete.cshtml
+++Details.cshtml
+i:{01e35a68-60bc-4d64-85a7-e73c8937c028}:c:\users\suhellyn\desktop\faveladelivery-esse aqui\views\cadastroclientes\details.cshtml
+i:{01e35a68-60bc-4d64-85a7-e73c8937c028}:c:\users\suhellyn\desktop\faveladelivery-esse aqui\views\cadastroempreendedors\details.cshtml
+i:{01e35a68-60bc-4d64-85a7-e73c8937c028}:c:\users\suhellyn\desktop\faveladelivery-esse aqui\views\cadastroentregadors\details.cshtml
+++Edit.cshtml
+i:{01e35a68-60bc-4d64-85a7-e73c8937c028}:c:\users\suhellyn\desktop\faveladelivery-esse aqui\views\cadastroclientes\edit.cshtml
+i:{01e35a68-60bc-4d64-85a7-e73c8937c028}:c:\users\suhellyn\desktop\faveladelivery-esse aqui\views\cadastroempreendedors\edit.cshtml
+i:{01e35a68-60bc-4d64-85a7-e73c8937c028}:c:\users\suhellyn\desktop\faveladelivery-esse aqui\views\cadastroentregadors\edit.cshtml
+++Index.cshtml
+i:{01e35a68-60bc-4d64-85a7-e73c8937c028}:c:\users\suhellyn\desktop\faveladelivery-esse aqui\views\cadastroclientes\index.cshtml
+i:{01e35a68-60bc-4d64-85a7-e73c8937c028}:c:\users\suhellyn\desktop\faveladelivery-esse aqui\views\cadastroempreendedors\index.cshtml
+i:{01e35a68-60bc-4d64-85a7-e73c8937c028}:c:\users\suhellyn\desktop\faveladelivery-esse aqui\views\cadastroentregadors\index.cshtml
+i:{01e35a68-60bc-4d64-85a7-e73c8937c028}:c:\users\suhellyn\desktop\faveladelivery-esse aqui\views\home\index.cshtml
+++CadastroEmpreendedors
+i:{01e35a68-60bc-4d64-85a7-e73c8937c028}:c:\users\suhellyn\desktop\faveladelivery-esse aqui\views\cadastroempreendedors\
+++CadastroEntregadors
+i:{01e35a68-60bc-4d64-85a7-e73c8937c028}:c:\users\suhellyn\desktop\faveladelivery-esse aqui\views\cadastroentregadors\
+++Home
+i:{01e35a68-60bc-4d64-85a7-e73c8937c028}:c:\users\suhellyn\desktop\faveladelivery-esse aqui\views\home\
+++Cdastro.cshtml
+i:{01e35a68-60bc-4d64-85a7-e73c8937c028}:c:\users\suhellyn\desktop\faveladelivery-esse aqui\views\home\cdastro.cshtml
+++Contato.cshtml
+i:{01e35a68-60bc-4d64-85a7-e73c8937c028}:c:\users\suhellyn\desktop\faveladelivery-esse aqui\views\home\contato.cshtml
+++Pedidos.cshtml
+i:{01e35a68-60bc-4d64-85a7-e73c8937c028}:c:\users\suhellyn\desktop\faveladelivery-esse aqui\views\home\pedidos.cshtml
+++QuemSomos.cshtml
+i:{01e35a68-60bc-4d64-85a7-e73c8937c028}:c:\users\suhellyn\desktop\faveladelivery-esse aqui\views\home\quemsomos.cshtml
+++Shared
+i:{01e35a68-60bc-4d64-85a7-e73c8937c028}:c:\users\suhellyn\desktop\faveladelivery-esse aqui\views\shared\
+++_Layout.cshtml
+i:{01e35a68-60bc-4d64-85a7-e73c8937c028}:c:\users\suhellyn\desktop\faveladelivery-esse aqui\views\shared\_layout.cshtml
+++_ValidationScriptsPartial.cshtml
+i:{01e35a68-60bc-4d64-85a7-e73c8937c028}:c:\users\suhellyn\desktop\faveladelivery-esse aqui\views\shared\_validationscriptspartial.cshtml
+++Error.cshtml
+i:{01e35a68-60bc-4d64-85a7-e73c8937c028}:c:\users\suhellyn\desktop\faveladelivery-esse aqui\views\shared\error.cshtml
+++_ViewImports.cshtml
+i:{01e35a68-60bc-4d64-85a7-e73c8937c028}:c:\users\suhellyn\desktop\faveladelivery-esse aqui\views\_viewimports.cshtml
+++_ViewStart.cshtml
+i:{01e35a68-60bc-4d64-85a7-e73c8937c028}:c:\users\suhellyn\desktop\faveladelivery-esse aqui\views\_viewstart.cshtml
+++.gitattributes
+i:{01e35a68-60bc-4d64-85a7-e73c8937c028}:c:\users\suhellyn\desktop\faveladelivery-esse aqui\.gitattributes
+++appsettings.json
+i:{01e35a68-60bc-4d64-85a7-e73c8937c028}:c:\users\suhellyn\desktop\faveladelivery-esse aqui\appsettings.json
+++Program.cs
+i:{01e35a68-60bc-4d64-85a7-e73c8937c028}:c:\users\suhellyn\desktop\faveladelivery-esse aqui\program.cs
+++Startup.cs
+i:{01e35a68-60bc-4d64-85a7-e73c8937c028}:c:\users\suhellyn\desktop\faveladelivery-esse aqui\startup.cs
+++Nenhuma dependência de serviço descoberta
+i:{01e35a68-60bc-4d64-85a7-e73c8937c028}:>774
+++Analisadores
+i:{01e35a68-60bc-4d64-85a7-e73c8937c028}:analisadores
+++Estruturas
+i:{01e35a68-60bc-4d64-85a7-e73c8937c028}:estruturas
+++Pacotes
+i:{01e35a68-60bc-4d64-85a7-e73c8937c028}:pacotes
+++launchSettings.json
+i:{01e35a68-60bc-4d64-85a7-e73c8937c028}:c:\users\suhellyn\desktop\faveladelivery-esse aqui\properties\launchsettings.json
+++icons
+i:{01e35a68-60bc-4d64-85a7-e73c8937c028}:c:\users\suhellyn\desktop\faveladelivery-esse aqui\wwwroot\img\icons\
+++BG-formulario.jpg
+i:{01e35a68-60bc-4d64-85a7-e73c8937c028}:c:\users\suhellyn\desktop\faveladelivery-esse aqui\wwwroot\img\bg-formulario.jpg
+++BG-login.png
+i:{01e35a68-60bc-4d64-85a7-e73c8937c028}:c:\users\suhellyn\desktop\faveladelivery-esse aqui\wwwroot\img\bg-login.png
+++Foto.png
+i:{01e35a68-60bc-4d64-85a7-e73c8937c028}:c:\users\suhellyn\desktop\faveladelivery-esse aqui\wwwroot\img\foto.png
+++foto-bg.png
+i:{01e35a68-60bc-4d64-85a7-e73c8937c028}:c:\users\suhellyn\desktop\faveladelivery-esse aqui\wwwroot\img\foto-bg.png
+++Foto-bg-Contato.jpeg
+i:{01e35a68-60bc-4d64-85a7-e73c8937c028}:c:\users\suhellyn\desktop\faveladelivery-esse aqui\wwwroot\img\foto-bg-contato.jpeg
+++foto-bg-mulher.png
+i:{01e35a68-60bc-4d64-85a7-e73c8937c028}:c:\users\suhellyn\desktop\faveladelivery-esse aqui\wwwroot\img\foto-bg-mulher.png
+++ft favela.jpg
+i:{01e35a68-60bc-4d64-85a7-e73c8937c028}:c:\users\suhellyn\desktop\faveladelivery-esse aqui\wwwroot\img\ft favela.jpg
+++ft-alimentos.png
+i:{01e35a68-60bc-4d64-85a7-e73c8937c028}:c:\users\suhellyn\desktop\faveladelivery-esse aqui\wwwroot\img\ft-alimentos.png
+++ft-artesanatos.png
+i:{01e35a68-60bc-4d64-85a7-e73c8937c028}:c:\users\suhellyn\desktop\faveladelivery-esse aqui\wwwroot\img\ft-artesanatos.png
+++ft-cliente.png
+i:{01e35a68-60bc-4d64-85a7-e73c8937c028}:c:\users\suhellyn\desktop\faveladelivery-esse aqui\wwwroot\img\ft-cliente.png
+++ft-eletronicos.png
+i:{01e35a68-60bc-4d64-85a7-e73c8937c028}:c:\users\suhellyn\desktop\faveladelivery-esse aqui\wwwroot\img\ft-eletronicos.png
+++ft-empreendedor.png
+i:{01e35a68-60bc-4d64-85a7-e73c8937c028}:c:\users\suhellyn\desktop\faveladelivery-esse aqui\wwwroot\img\ft-empreendedor.png
+++ft-entregador.png
+i:{01e35a68-60bc-4d64-85a7-e73c8937c028}:c:\users\suhellyn\desktop\faveladelivery-esse aqui\wwwroot\img\ft-entregador.png
+++logo.png
+i:{01e35a68-60bc-4d64-85a7-e73c8937c028}:c:\users\suhellyn\desktop\faveladelivery-esse aqui\wwwroot\img\logo.png
+++logo_nova.png
+i:{01e35a68-60bc-4d64-85a7-e73c8937c028}:c:\users\suhellyn\desktop\faveladelivery-esse aqui\wwwroot\img\logo_nova.png
+++logo-aba.ico
+i:{01e35a68-60bc-4d64-85a7-e73c8937c028}:c:\users\suhellyn\desktop\faveladelivery-esse aqui\wwwroot\img\logo-aba.ico
+++site.js
+i:{01e35a68-60bc-4d64-85a7-e73c8937c028}:c:\users\suhellyn\desktop\faveladelivery-esse aqui\wwwroot\js\site.js
+++bootstrap
+i:{01e35a68-60bc-4d64-85a7-e73c8937c028}:c:\users\suhellyn\desktop\faveladelivery-esse aqui\wwwroot\lib\bootstrap\
+++jquery
+i:{01e35a68-60bc-4d64-85a7-e73c8937c028}:c:\users\suhellyn\desktop\faveladelivery-esse aqui\wwwroot\lib\jquery\
+++jquery-validation
+i:{01e35a68-60bc-4d64-85a7-e73c8937c028}:c:\users\suhellyn\desktop\faveladelivery-esse aqui\wwwroot\lib\jquery-validation\
+++jquery-validation-unobtrusive
+i:{01e35a68-60bc-4d64-85a7-e73c8937c028}:c:\users\suhellyn\desktop\faveladelivery-esse aqui\wwwroot\lib\jquery-validation-unobtrusive\
+++20220110180800_teste7.Designer.cs
+i:{01e35a68-60bc-4d64-85a7-e73c8937c028}:c:\users\suhellyn\desktop\faveladelivery-esse aqui\migrations\20220110180800_teste7.designer.cs
+++20220110215312_teste1.Designer.cs
+i:{01e35a68-60bc-4d64-85a7-e73c8937c028}:c:\users\suhellyn\desktop\faveladelivery-esse aqui\migrations\20220110215312_teste1.designer.cs
+++appsettings.Development.json
+i:{01e35a68-60bc-4d64-85a7-e73c8937c028}:c:\users\suhellyn\desktop\faveladelivery-esse aqui\appsettings.development.json
+++Microsoft.AspNetCore.Analyzers
+i:{01e35a68-60bc-4d64-85a7-e73c8937c028}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+++Microsoft.AspNetCore.Components.Analyzers
+i:{01e35a68-60bc-4d64-85a7-e73c8937c028}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+++Microsoft.AspNetCore.Mvc.Analyzers
+i:{01e35a68-60bc-4d64-85a7-e73c8937c028}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+++Microsoft.CodeAnalysis.Analyzers
+i:{01e35a68-60bc-4d64-85a7-e73c8937c028}:c:\users\suhellyn\.nuget\packages\microsoft.codeanalysis.analyzers\3.0.0\analyzers\dotnet\cs\microsoft.codeanalysis.analyzers.dll
+++Microsoft.CodeAnalysis.CSharp.Analyzers
+i:{01e35a68-60bc-4d64-85a7-e73c8937c028}:c:\users\suhellyn\.nuget\packages\microsoft.codeanalysis.analyzers\3.0.0\analyzers\dotnet\cs\microsoft.codeanalysis.csharp.analyzers.dll
+++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
+i:{01e35a68-60bc-4d64-85a7-e73c8937c028}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+++Microsoft.CodeAnalysis.NetAnalyzers
+i:{01e35a68-60bc-4d64-85a7-e73c8937c028}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+++Microsoft.EntityFrameworkCore.Analyzers
+i:{01e35a68-60bc-4d64-85a7-e73c8937c028}:c:\users\suhellyn\.nuget\packages\microsoft.entityframeworkcore.analyzers\5.0.12\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+++Microsoft.AspNetCore.App
+i:{01e35a68-60bc-4d64-85a7-e73c8937c028}:c:\users\suhellyn\desktop\faveladelivery-esse aqui\microsoft.aspnetcore.app
+++Microsoft.NETCore.App
+i:{01e35a68-60bc-4d64-85a7-e73c8937c028}:c:\users\suhellyn\desktop\faveladelivery-esse aqui\microsoft.netcore.app
+++Microsoft.EntityFrameworkCore (5.0.12)
+i:{01e35a68-60bc-4d64-85a7-e73c8937c028}:>788
+++Microsoft.EntityFrameworkCore.Design (5.0.12)
+i:{01e35a68-60bc-4d64-85a7-e73c8937c028}:>790
+++Microsoft.EntityFrameworkCore.SqlServer (5.0.12)
+i:{01e35a68-60bc-4d64-85a7-e73c8937c028}:>789
+++Microsoft.EntityFrameworkCore.Tools (5.0.12)
+i:{01e35a68-60bc-4d64-85a7-e73c8937c028}:>791
+++Microsoft.VisualStudio.Web.CodeGeneration.Design (5.0.2)
+i:{01e35a68-60bc-4d64-85a7-e73c8937c028}:>792
+++dist
+i:{01e35a68-60bc-4d64-85a7-e73c8937c028}:c:\users\suhellyn\desktop\faveladelivery-esse aqui\wwwroot\lib\bootstrap\dist\
+i:{01e35a68-60bc-4d64-85a7-e73c8937c028}:c:\users\suhellyn\desktop\faveladelivery-esse aqui\wwwroot\lib\jquery\dist\
+i:{01e35a68-60bc-4d64-85a7-e73c8937c028}:c:\users\suhellyn\desktop\faveladelivery-esse aqui\wwwroot\lib\jquery-validation\dist\
+++LICENSE
+i:{01e35a68-60bc-4d64-85a7-e73c8937c028}:c:\users\suhellyn\desktop\faveladelivery-esse aqui\wwwroot\lib\bootstrap\license
+++LICENSE.txt
+i:{01e35a68-60bc-4d64-85a7-e73c8937c028}:c:\users\suhellyn\desktop\faveladelivery-esse aqui\wwwroot\lib\jquery\license.txt
+i:{01e35a68-60bc-4d64-85a7-e73c8937c028}:c:\users\suhellyn\desktop\faveladelivery-esse aqui\wwwroot\lib\jquery-validation-unobtrusive\license.txt
+++LICENSE.md
+i:{01e35a68-60bc-4d64-85a7-e73c8937c028}:c:\users\suhellyn\desktop\faveladelivery-esse aqui\wwwroot\lib\jquery-validation\license.md
+++jquery.validate.unobtrusive.js
+i:{01e35a68-60bc-4d64-85a7-e73c8937c028}:c:\users\suhellyn\desktop\faveladelivery-esse aqui\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js
+++jquery.js
+i:{01e35a68-60bc-4d64-85a7-e73c8937c028}:c:\users\suhellyn\desktop\faveladelivery-esse aqui\wwwroot\lib\jquery\dist\jquery.js
+++additional-methods.js
+i:{01e35a68-60bc-4d64-85a7-e73c8937c028}:c:\users\suhellyn\desktop\faveladelivery-esse aqui\wwwroot\lib\jquery-validation\dist\additional-methods.js
+++jquery.validate.js
+i:{01e35a68-60bc-4d64-85a7-e73c8937c028}:c:\users\suhellyn\desktop\faveladelivery-esse aqui\wwwroot\lib\jquery-validation\dist\jquery.validate.js
+++jquery.validate.unobtrusive.min.js
+i:{01e35a68-60bc-4d64-85a7-e73c8937c028}:c:\users\suhellyn\desktop\faveladelivery-esse aqui\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js
+++bootstrap.css
+i:{01e35a68-60bc-4d64-85a7-e73c8937c028}:c:\users\suhellyn\desktop\faveladelivery-esse aqui\wwwroot\lib\bootstrap\dist\css\bootstrap.css
+++bootstrap-grid.css
+i:{01e35a68-60bc-4d64-85a7-e73c8937c028}:c:\users\suhellyn\desktop\faveladelivery-esse aqui\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+++bootstrap-reboot.css
+i:{01e35a68-60bc-4d64-85a7-e73c8937c028}:c:\users\suhellyn\desktop\faveladelivery-esse aqui\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+++bootstrap.js
+i:{01e35a68-60bc-4d64-85a7-e73c8937c028}:c:\users\suhellyn\desktop\faveladelivery-esse aqui\wwwroot\lib\bootstrap\dist\js\bootstrap.js
+++jquery.min.js
+i:{01e35a68-60bc-4d64-85a7-e73c8937c028}:c:\users\suhellyn\desktop\faveladelivery-esse aqui\wwwroot\lib\jquery\dist\jquery.min.js
+++additional-methods.min.js
+i:{01e35a68-60bc-4d64-85a7-e73c8937c028}:c:\users\suhellyn\desktop\faveladelivery-esse aqui\wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+++jquery.validate.min.js
+i:{01e35a68-60bc-4d64-85a7-e73c8937c028}:c:\users\suhellyn\desktop\faveladelivery-esse aqui\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+++bootstrap.css.map
+i:{01e35a68-60bc-4d64-85a7-e73c8937c028}:c:\users\suhellyn\desktop\faveladelivery-esse aqui\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+++bootstrap.min.css
+i:{01e35a68-60bc-4d64-85a7-e73c8937c028}:c:\users\suhellyn\desktop\faveladelivery-esse aqui\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+++bootstrap-grid.css.map
+i:{01e35a68-60bc-4d64-85a7-e73c8937c028}:c:\users\suhellyn\desktop\faveladelivery-esse aqui\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+++bootstrap-grid.min.css
+i:{01e35a68-60bc-4d64-85a7-e73c8937c028}:c:\users\suhellyn\desktop\faveladelivery-esse aqui\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+++bootstrap-reboot.css.map
+i:{01e35a68-60bc-4d64-85a7-e73c8937c028}:c:\users\suhellyn\desktop\faveladelivery-esse aqui\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+++bootstrap-reboot.min.css
+i:{01e35a68-60bc-4d64-85a7-e73c8937c028}:c:\users\suhellyn\desktop\faveladelivery-esse aqui\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+++bootstrap.bundle.js
+i:{01e35a68-60bc-4d64-85a7-e73c8937c028}:c:\users\suhellyn\desktop\faveladelivery-esse aqui\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+++bootstrap.js.map
+i:{01e35a68-60bc-4d64-85a7-e73c8937c028}:c:\users\suhellyn\desktop\faveladelivery-esse aqui\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+++bootstrap.min.js
+i:{01e35a68-60bc-4d64-85a7-e73c8937c028}:c:\users\suhellyn\desktop\faveladelivery-esse aqui\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+++jquery.min.map
+i:{01e35a68-60bc-4d64-85a7-e73c8937c028}:c:\users\suhellyn\desktop\faveladelivery-esse aqui\wwwroot\lib\jquery\dist\jquery.min.map
+++bootstrap.min.css.map
+i:{01e35a68-60bc-4d64-85a7-e73c8937c028}:c:\users\suhellyn\desktop\faveladelivery-esse aqui\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+++bootstrap-grid.min.css.map
+i:{01e35a68-60bc-4d64-85a7-e73c8937c028}:c:\users\suhellyn\desktop\faveladelivery-esse aqui\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+++bootstrap-reboot.min.css.map
+i:{01e35a68-60bc-4d64-85a7-e73c8937c028}:c:\users\suhellyn\desktop\faveladelivery-esse aqui\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+++bootstrap.bundle.js.map
+i:{01e35a68-60bc-4d64-85a7-e73c8937c028}:c:\users\suhellyn\desktop\faveladelivery-esse aqui\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+++bootstrap.bundle.min.js
+i:{01e35a68-60bc-4d64-85a7-e73c8937c028}:c:\users\suhellyn\desktop\faveladelivery-esse aqui\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+++bootstrap.min.js.map
+i:{01e35a68-60bc-4d64-85a7-e73c8937c028}:c:\users\suhellyn\desktop\faveladelivery-esse aqui\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+++bootstrap.bundle.min.js.map
+i:{01e35a68-60bc-4d64-85a7-e73c8937c028}:c:\users\suhellyn\desktop\faveladelivery-esse aqui\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+++StyleSheet.css
+++contatos.css
+i:{01e35a68-60bc-4d64-85a7-e73c8937c028}:c:\users\suhellyn\desktop\faveladelivery-esse aqui\wwwroot\css\contatos.css
